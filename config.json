@@ -1,0 +1,9 @@
+{
+	"domain":  "boardgamegeek.com",
+	"creditsURL": "/credits",
+	"categoriesURL": "https://boardgamegeek.com/browse/boardgamecategory",
+	"categories":{
+		"table": "#maincontent > table > tbody"
+	}
+	
+}
