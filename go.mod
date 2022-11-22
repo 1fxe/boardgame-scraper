@@ -3,19 +3,22 @@ module github.com/1fxe/board-game-web-scraper
 go 1.19
 
 require (
+	github.com/chromedp/chromedp v0.8.6
+	github.com/gocolly/colly v1.2.0
+)
+
+require (
 	github.com/PuerkitoBio/goquery v1.8.0 // indirect
 	github.com/andybalholm/cascadia v1.3.1 // indirect
 	github.com/antchfx/htmlquery v1.2.5 // indirect
 	github.com/antchfx/xmlquery v1.3.12 // indirect
 	github.com/antchfx/xpath v1.2.1 // indirect
-	github.com/chromedp/cdproto v0.0.0-20221114202156-f470c7c7306e // indirect
-	github.com/chromedp/chromedp v0.8.6 // indirect
+	github.com/chromedp/cdproto v0.0.0-20221121013437-8e96627807c6 // indirect
 	github.com/chromedp/sysutil v1.0.0 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gobwas/httphead v0.1.0 // indirect
 	github.com/gobwas/pool v0.2.1 // indirect
 	github.com/gobwas/ws v1.1.0 // indirect
-	github.com/gocolly/colly v1.2.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/jawher/mow.cli v1.2.0 // indirect

@@ -1,14 +1,11 @@
 {
-	"domain":  "boardgamegeek.com",
-	"creditsURL": "/credits",
-	"tableConfig": {
-			"categoriesURL": "https://boardgamegeek.com/browse/boardgamecategory",
-			"mechanicsURL":"https://boardgamegeek.com/browse/boardgamemechanic",
-			"table": "#maincontent > table > tbody"
-	},
-	"categories":{
-		"categoryName": "#mainbody > div.global-body-content-container.container-fluid > div > div.content.ng-isolate-scope > div:nth-child(2) > ng-include > div > ng-include > div > div > div.game-header-body > div.game-header-title-container > div > div > h1 > a",
-		"description" : "#mainbody > div.global-body-content-container.container-fluid > div > div.content.ng-isolate-scope > div:nth-child(2) > ng-include > div > div > ui-view > ui-view > div > overview-module > description-module > div > div.panel-body > div > div > div > article"
-	}
-	
+  "domain": "boardgamegeek.com",
+  "creditsURL": "/credits",
+  "tableConfig": {
+    "categoriesURL": "https://boardgamegeek.com/browse/boardgamecategory",
+    "mechanicsURL": "https://boardgamegeek.com/browse/boardgamemechanic",
+    "table": "#maincontent > table > tbody",
+    "itemName": "#mainbody > div.global-body-content-container.container-fluid > div > div.content.ng-isolate-scope > div:nth-child(2) > ng-include > div > ng-include > div > div > div.game-header-body > div.game-header-title-container > div > div > h1 > a",
+    "itemDescription": "#mainbody > div.global-body-content-container.container-fluid > div > div.content.ng-isolate-scope > div:nth-child(2) > ng-include > div > div > ui-view > ui-view > div > overview-module > description-module > div > div.panel-body > div > div > div > article"
+  }
 }

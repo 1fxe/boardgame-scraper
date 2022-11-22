@@ -2,18 +2,15 @@
 package internal
 
 const (
-	Categories = "categoriesURLS"
-	Mechanics  = "mechanicsURLS"
+	CategoriesURLS = "categoriesURLS"
+	MechanicsURLS  = "mechanicsURLS"
+	Categories     = "categories"
+	Mechanics      = "mechanics"
 )
 
-type Category struct {
-	Name        string `json:"categoryName"`
-	Description string `json:"categoryDescription"`
-}
-
-type Mechanism struct {
-	Name        string `json:"mechanismName"`
-	Description string `json:"mechanismDescription"`
+type Data struct {
+	Name        string `json:"dataName"`
+	Description string `json:"dataDescription"`
 }
 
 type Range struct {
@@ -22,11 +19,11 @@ type Range struct {
 }
 
 type Game struct {
-	PrimaryName  string      `json:"name"`
-	YearReleased uint16      `json:"yearReleased"`
-	NoPlayers    Range       `json:"noPlayers"`
-	PlayTime     Range       `json:"playTime"`
-	Age          string      `json:"age"`
-	Categories   []Category  `json:"categories"`
-	Mechanisms   []Mechanism `json:"mechanisms"`
+	PrimaryName  string `json:"name"`
+	YearReleased uint16 `json:"yearReleased"`
+	NoPlayers    Range  `json:"noPlayers"`
+	PlayTime     Range  `json:"playTime"`
+	Age          string `json:"age"`
+	Categories   []Data `json:"categories"`
+	Mechanisms   []Data `json:"mechanisms"`
 }
