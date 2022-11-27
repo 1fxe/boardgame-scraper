@@ -2,7 +2,9 @@
 
 Web scraper for [boardgamegeek.com](https://boardgamegeek.com/)
 
-## Usage
+I also use the XML Api for the games see [xml_client.go](./xml_client.go)  
+
+## Scraper Usage
 
 ```go
 -getCategories
@@ -20,11 +22,11 @@ Web scraper for [boardgamegeek.com](https://boardgamegeek.com/)
 - [x] Parse Mechanics
 - [x] Parse Categories
 - [ ] Parse Game Data
-
+  - [ ] Name & Description
   - [ ] All Games
-  - [ ] Misc Data
-  - [ ] Age
+  - [x] Misc Data
+  - [x] Age
   - [ ] Parse Categories
   - [ ] Parse Mechanics
 
-- [ ] Speed up parsing
+- [x] Speed up parsing
