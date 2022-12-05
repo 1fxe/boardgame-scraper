@@ -1,0 +1,766 @@
+[
+   {
+      "dataName": "Acting",
+      "dataDescription": "\u003cp\u003eGames with the Acting mechanic require players to use some form of mime or mimicry to communicate with the other players.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/5122/charades\"   \u003eCharades\u003c/a\u003e is probably the poster child for this mechanic, where one member of a team must use non-verbal clues to allow the other members to guess the solution.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Action Drafting",
+      "dataDescription": "\u003cp\u003ePlayers select from an assortment of Actions in a shared pool. The available Actions are limited in quantity, and once a player has chosen an Action it may not be chosen again.\u003c/p\u003e\n\n\u003cp\u003eNOTE: \u003ca  href=\"/boardgamemechanic/2082/worker-placement\"   \u003eWorker Placement\u003c/a\u003e is a subset of this category, and games with that mechanism should be placed in that category instead.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Action Points",
+      "dataDescription": "\u003cp\u003eA player receives a number of Action Points or Operation Points on their turn. They may spend them on a variety of Actions.\u003c/p\u003e\n\n\u003cp\u003eThe earliest example of a game listed on Boardgamegeek that uses AP's is \u003ca  href=\"/boardgame/32059/special-train\"   \u003eSpecial Train\u003c/a\u003e (1948).\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadge\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/29036\"\u003e\u003cimg alt='Microbadge: Action point games fan' onmouseover=\"return overlib('Action point games fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_29036_0.png\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/29036\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eAction point games fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Action Queue",
+      "dataDescription": "\u003cp\u003ePlayers create Action Queues and perform them in sequence. Queues can either be \u0026quot;Batch\u0026quot; queues, where all actions are executed in sequence, or \u0026quot;Rolling\u0026quot; queues where actions are added to the end of the Queue, and the first action is then executed.  Players may each have their own queue of actions, or there may be a shared action queue.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/713/nuclear-war\"   \u003eNuclear War\u003c/a\u003e is an example of a Rolling queue. \u003ca  href=\"/boardgame/158899/colt-express\"   \u003eColt Express\u003c/a\u003e is an example of a Batch queue. \u003ca  href=\"/boardgame/144239/impulse\"   \u003eImpulse\u003c/a\u003e utilizes a shared rolling queue.\u003c/p\u003e\n\n\u003cp\u003eSome games utilize a fixed action queue printed to the board, such as in \u003ca  href=\"/boardgame/552/bus\"   \u003eBus\u003c/a\u003e and \u003ca  href=\"/boardgame/62219/dominant-species\"   \u003eDominant Species\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eAn Action Queue that is only for movement actions is called \u003ca  href=\"/boardgamemechanic/2953/programmed-movement\"   \u003eProgrammed Movement\u003c/a\u003e, which has a separate entry.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Action Retrieval",
+      "dataDescription": "\u003cp\u003eEach player has a set of Actions available to them, embodied in cards, tokens, or some other affordance. Once performed, they are spent and may not be performed again until retrieved. Action Retrieval typically is itself an Action, or may take an entire turn.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Action Timer",
+      "dataDescription": "\u003cp\u003ePlayers place owned timers on action spaces and pieces and take an action. When the timer runs out, it may be moved to another location to take that action. There are no turns -; players may move their own timers any time after they have expired.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Action/Event",
+      "dataDescription": "\u003cp\u003eOn their turn, the player plays a card that shows Action Points and an Event. They must choose to either use the Action Points or perform the Event. If they choose to use Action Points, typically the Event may be performed by another player.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Advantage Token",
+      "dataDescription": "\u003cp\u003eOne player has a token that permits them to do a special Action, or modify an Action. Once used, the token passes to another player.\u003c/p\u003e\n\n\u003cp\u003eFirst used in \u003ca  href=\"/boardgame/1423/storm-over-arnhem\"   \u003eStorm over Arnhem\u003c/a\u003e, this mechanism has been used to great impact in many games since, notably as The China Card in \u003ca  href=\"/boardgame/12333/twilight-struggle\"   \u003eTwilight Struggle\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Alliances",
+      "dataDescription": "\u003cp\u003ePlayers have formal relationships that may change over the course of the game.\u003c/p\u003e\n\n\u003cp\u003eThis differs from \u003ca  href=\"/boardgamemechanic/2915/negotiation\"   \u003eNegotiation\u003c/a\u003e in that these relationships are governed by specific game rules. For example, in \u003ca  href=\"/boardgame/121/dune\"   \u003eDune\u003c/a\u003e, players may form alliances at each Nexus phase, which last until the next Nexus. During that time the players win together, may not attack each other, and grant their ally a special power. In \u003ca  href=\"/boardgame/9625/struggle-empires\"   \u003eStruggle of Empires\u003c/a\u003e players bid for the right to select their ally for that round, which is governed by similar rules.\u003c/p\u003e\n\n\u003cp\u003eIf players are allied as partners for the entire game, and win or lose together, it is instead a \u003ca  href=\"/boardgamemechanic/2019/team-based-game\"   \u003eTeam-Based Game\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Area Majority / Influence",
+      "dataDescription": "\u003cp\u003eMultiple players may occupy a space and gain benefits based on their proportional presence in the space.\u003c/p\u003e\n\n\u003cp\u003eIn \u003ca  href=\"/boardgame/93/el-grande\"   \u003eEl Grande\u003c/a\u003e, for instance, players earn their score in a region by having the most caballeros in that region.\u003c/p\u003e\n\n\u003cp\u003eFor an overview and discussion of popular games with this mechanic, see: \u003ca  href=\"/geeklist/162189/area-control-games-your-favourites-and-why\"   \u003eArea Control Games: Your favourites and why\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadges\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/29035\"\u003e\u003cimg alt='Microbadge: Area control games fan' onmouseover=\"return overlib('Area control games fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_29035_0.png\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/29035\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eArea Control Games fan\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/1851\"\u003e\u003cimg alt='Microbadge: Area Majority Games fan' onmouseover=\"return overlib('Area Majority Games fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_1851_0.gif\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://www.boardgamegeek.com/microbadge/1851\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eArea Majority Games fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Area Movement",
+      "dataDescription": "\u003cp\u003eThe game board is divided into irregularly shaped areas to determine adjacency and movement.\u003c/p\u003e\n\n\u003cp\u003eThis can be contrasted to point to point movement (which is isomorphic) and grid movement (which uses regular shapes).\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Area-Impulse",
+      "dataDescription": "\u003cp\u003ePlayers subdivide turns into impulses alternating between players which repeat until both players pass (or in some cases a sunset die roll ends the impulses catching one or both players off guard).  In those impulses a group of units is once activated or gets to act collectively before being marked spent. However instead of the activated units being grouped by a certain radius from a leader the units activated are in an area (and thus the need for the impulse system to have areas, not hexes).  The areas exist to define scope of activation on an impulse (as well as restrict what can be done on that impulse with respect to attack and movement range). Thus each of a players groups of units each acts once by means of small alternating impulses instead of the traditional all my units then all your units. Finally before the next turn of impulses spent units are reset regaining the ability to act.\u003c/p\u003e\n\n\u003cp\u003eHistorically this began with Storm Over Arnhem (1981) part of the \u003ca  href=\"/boardgamefamily/21701/series-storm-over-area-impulse\"   \u003eSeries: Storm Over area impulse\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Auction Compensation",
+      "dataDescription": "\u003cp\u003eLosing bidders in an auction receive a lesser award in place of the lot they bid on.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Auction/Bidding",
+      "dataDescription": "\u003cp\u003eThis mechanic requires you to place a bid, usually monetary, on items in an auction of goods in order to enhance your position in the game. These goods allow players future actions or improve a position. The auction consists of taking turns placing bids on a given item until one winner is established, allowing the winner to take control of the item being bid on. Usually there is a game rule that helps drop the price of the items being bid on if no players are interested in the item at its current price. In most games, once a winner for one item is done, if there are more items to be bid upon, another auction is held for those items. The process repeats until a game condition is met or items are exhausted in the auction phase of the game. This is similar to \u003ca  href=\"/boardgamemechanic/2082/worker-placement\"   \u003eWorker Placement\u003c/a\u003e, but workers can be kicked off spots by bidding higher.\u003c/p\u003e\n\n\u003cp\u003eIn Power Grid, for example, you start with no power plants and must win bids to be able to produce power. Winning a bid on a given power plant allows that player to add it to their current inventory of power plants and also allows for more power to be made in a given turn. In Vegas Showdown, players bid on rooms. such as a slot machine or a restaurant, in order to build a larger hotel with more prestige and value. Winning players pay for the room based on their bid and place it in their hotel. In both examples, bidding is done in a turn format and players have the option of passing on bids.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadge\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/29034\"\u003e\u003cimg alt='Microbadge: Blind bidding fan' onmouseover=\"return overlib('Blind bidding fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_29034_0.png\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/29034\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eBlind bidding fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Auction: Dexterity",
+      "dataDescription": "\u003cp\u003eA Dexterity Auction requires performance of some act of dexterity to submit a valid bid. Typically, this would involve the bid marker itself being placed into some valid bidding area, but other methods for implementing this may be used.\u003c/p\u003e\n\n\u003cp\u003eFor example, in \u003ca  href=\"/boardgame/144761/going-going-gone\"   \u003eGoing, Going, GONE!\u003c/a\u003e, players place tokens in cups in real time to represent their bid.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Auction: Dutch",
+      "dataDescription": "\u003cp\u003eA simultaneous single-bid system in which the lot starts at a very high price, and then is gradually decreased by the auctioneer or other controlling mechanism, until someone agrees to claim the item at its current price, ending the auction. The first bidder to accept the current price is the winner, such that there are no ties. A Dutch Auction is sometimes also called a one-bid auction because of this feature that the first bid made is also the only bid in the auction.\u003c/p\u003e\n\n\u003cp\u003eThe purest implementation of this is \u003ca  href=\"/boardgame/531/merchants-amsterdam\"   \u003eMerchants of Amsterdam\u003c/a\u003e, which features a spring-load mechanism that gradually reduces the price until someone hits it, winning the bid.\u003c/p\u003e\n\n\u003cp\u003eThis category also includes the mechanism where items slide down a track, with the cost decreasing as it does so. This is a common implementation of \u003ca  href=\"/boardgamemechanic/2041/open-drafting\"   \u003eOpen Drafting\u003c/a\u003e such as in \u003ca  href=\"/boardgame/25613/through-ages-story-civilization\"   \u003eThrough the Ages: A Story of Civilization\u003c/a\u003e. An alternative but logically equivalent process is \u003ca  href=\"/boardgamemechanic/2914/increase-value-unchosen-resources\"   \u003eIncrease Value of Unchosen Resources\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Auction: Dutch Priority",
+      "dataDescription": "\u003cp\u003eA Dutch Priority Auction is a multiple-lot auction in which prices for the lots are determined based on the number of bids placed on the lots up for bid. The winning bidder is the first player, in bid priority, who chooses to pay the current price for a lot, which is equal to the number of bidding tokens there. Priority may be determined by a variety of factors, including global turn order or turn order for each lot based on order of bid placement. Players may typically pass on the purchase when they are the priority bidder by removing their bidding token. This has the effect of reducing the price for the lot by one.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/66505/speicherstadt\"   \u003eThe Speicherstadt\u003c/a\u003e introduced this mechanism. In that, players place meeples one at a time on different lots to be bid on. After all meeples are placed, each lot is evaluated. The player with the first meeple placed on a lot may purchase it, but must pay a price equal to the total number of meeples. If they cannot or will not purchase it, they take their meeple back, and the next meeple in line may purchase, now at $1 less.\u003c/p\u003e\n\n\u003cp\u003eThis opens up lots of opportunity for counterplay and brinkmanship in a relatively simple system.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Auction: English",
+      "dataDescription": "\u003cp\u003eAn auctioneer asks for bids of a certain amount and players indicate their willingness to bid at that amount, usually by holding up a hand or paddle, or by calling out. Players are permitted to adjust the increment of the bid, usually by shouting out their actual bid, though this is done infrequently, and usually either to indicate a smaller increment than the auctioneer requests, or a much larger one. When a certain amount of time with no increases occurs, or it is clear that no one wishes to raise the current bid, the auctioneer declares that the high bidder is the winner.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Auction: Fixed Placement",
+      "dataDescription": "\u003cp\u003eFixed Placement is a meta-mechanism that modifies a \u003ca  href=\"/boardgamemechanic/2927/multiple-lot-auction\"   \u003emultiple-lot auction\u003c/a\u003e by creating rules about which lots players may bid on, and representing bids visually on a board or cards. It is often combined with \u003ca  href=\"/boardgamemechanic/2922/constrained-bidding\"   \u003econstrained-value bids\u003c/a\u003e. A Fixed-Placement auction ends when every player passes and/or no player has the right to bid further. The highest bidder for each lot wins the lot.\u003c/p\u003e\n\n\u003cp\u003eGood examples of this mechanism are in \u003ca  href=\"/boardgame/5404/amun-re\"   \u003eAmun-Re\u003c/a\u003e and \u003ca  href=\"/boardgame/15364/vegas-showdown\"   \u003eVegas Showdown\u003c/a\u003e. In these games, there is a track below each lot up for auction. Each player places a marker on the lot they are interested in, at the value they want to pay. If another player wants to bid on that lot they do it by placing their bid marker on a space higher than the current bidder. The outbid player retrieves their bid token, and may place it on the same lot at a higher price, or another lot.\u003c/p\u003e\n\n\u003cp\u003eWhen all players have placed their token, the bids are resolved.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Auction: Multiple Lot",
+      "dataDescription": "\u003cp\u003eAn auction in which players simultaneously bid on Multiple Lots in parallel, instead of bidding for one lot at a time serially. The actual format of the auction can follow any of the auction mechanisms.\u003c/p\u003e\n\n\u003cp\u003eFor example, in \u003ca  href=\"/boardgame/34887/revolution\"   \u003eRevolution!\u003c/a\u003e players perform a simultaneous Sealed Bid Auction on 12 different actions.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Auction: Once Around",
+      "dataDescription": "\u003cp\u003eThe players each have one opportunity to bid, either passing or raising the prior bidder. The order of bids is determined by one of the Turn Order structures. After the last player has their opportunity to bid, the high bidder wins.\u003c/p\u003e\n\n\u003cp\u003eAlthough this helps shorten the auction (as increasing game length is a pitfall of including auctions), it strongly favors the last player to bid, as they know what their winning bid needs to be, so the designer needs to take care to balance properly.\u003c/p\u003e\n\n\u003cp\u003eExamples include \u003ca  href=\"/boardgame/118/modern-art\"   \u003eModern Art\u003c/a\u003e and \u003ca  href=\"/boardgame/46/medici\"   \u003eMedici\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Auction: Sealed Bid",
+      "dataDescription": "\u003cp\u003ePlayers secretly make a bid. All bids are revealed simultaneously, and the high bidder wins.\u003c/p\u003e\n\n\u003cp\u003eTypically some tie breaker mechanism is required. Common ones include closest to start player or using a secondary currency for a tie-breaking bid.\u003c/p\u003e\n\n\u003cp\u003eA variation on this is called Sealed Bid with Cancellation. In this case, if two or more players have the same high bid, they are eliminated from contention. The highest non-duplicated bid is the winner. This is best used with Constrained Bidding to make ties more likely, and was first used in \u003ca  href=\"/boardgame/175/what-heck\"   \u003eWhat the Heck?\u003c/a\u003e (originally called Hol's Der Geier, so it is sometimes referred to as \u0026quot;the Hol's Der Geier mechanism\u0026quot;).\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Auction: Turn Order Until Pass",
+      "dataDescription": "\u003cp\u003eStarting with one player and going in turn order, players may raise the current bid or pass. When all players but one have passed, the player remaining in the auction is the winner.\u003c/p\u003e\n\n\u003cp\u003eNormally players that pass may not re-enter the auction. However, allowing re-entry is a variation that is not uncommon.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Automatic Resource Growth",
+      "dataDescription": "\u003cp\u003eThe automatic increase of a resource triggered by a particular, \u003cem\u003econditional\u003c/em\u003e, deterministic (not random) game state.\u003c/p\u003e\n\n\u003cp\u003eExample 1. Unacquired resources in Agricola: \u003cbr /\u003e\n- Uncollected wood from the wood-collection action space (condition) will offer +1 wood (result) on the following round (game state).\u003c/p\u003e\n\n\u003cp\u003eExample 2. Acquired resources in Agricola: \u003cbr /\u003e\n- Two pigs in your farm, in an area with space enough for 3 pigs (condition) will automatically produce a 3rd pig (result) during the breeding phase of that round (game state).\u003c/p\u003e\n\n\u003cp\u003eCounter-example 1. \u003ca  href=\"/boardgamemechanic/2902/income\"   \u003eIncome\u003c/a\u003e in Monopoly:\u003cbr /\u003e\n- Collect $200 (result) when passing \u0026ldquo;GO\u0026rdquo; (game state).\u003cbr /\u003e\n- There is no condition (ex: if you own 1 or more properties)\u003c/p\u003e\n\n\u003cp\u003eCounter-example 2. \u003ca  href=\"/boardgamemechanic/2909/random-production\"   \u003eRandom Production\u003c/a\u003e in Catan:\u003cbr /\u003e\n- Players collect resources at the beginning of each turn based on a die roll.\u003cbr /\u003e\n- The production is random not deterministic.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Betting and Bluffing",
+      "dataDescription": "\u003cp\u003ePlayers commit a stake of currency or resources to purchase a chance of winning everyone\u0026rsquo;s stake, based on some random outcome like being dealt a superior set of cards or rolling a higher number. Players typically have partial information about the overall game state, and may \u0026ldquo;bluff,\u0026rdquo; by representing through their in-game actions that they hold a stronger position than they do. Conversely, players may \u0026ldquo;fold,\u0026rdquo; or quit the contest, and limit their losses to whatever they had already staked.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Bias",
+      "dataDescription": "\u003cp\u003ePieces automatically move in a certain direction, or it is easier to move in a certain direction.\u003c/p\u003e\n\n\u003cp\u003eThis is commonly used to simulate wind (\u003ca  href=\"/boardgame/1757/yacht-race\"   \u003eYacht Race\u003c/a\u003e), currents (\u003ca  href=\"/boardgame/124/primordial-soup\"   \u003ePrimordial Soup\u003c/a\u003e), gravity (\u003ca  href=\"/boardgame/2753/demons-run\"   \u003eDemon's Run\u003c/a\u003e), conveyor belts (\u003ca  href=\"/boardgame/18/roborally\"   \u003eRoboRally\u003c/a\u003e), and other environmental features.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Bids As Wagers",
+      "dataDescription": "\u003cp\u003ePlayers bid that they can achieve some outcome in the ensuing gameplay phase. Scoring is based on whether and how well players achieve their bids. Examples would be Spades or Contract Bridge.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Bingo",
+      "dataDescription": "\u003cp\u003eItems are selected at random, and each player needs to use the items for their own player boards.\u003c/p\u003e\n\n\u003cp\u003eOther than \u003ca  href=\"/boardgame/7316/bingo\"   \u003eBingo\u003c/a\u003e, examples include \u003ca  href=\"/boardgame/128/take-it-easy\"   \u003eTake it Easy!\u003c/a\u003e, \u003ca  href=\"/boardgame/137297/rise-augustus\"   \u003eRise of Augustus\u003c/a\u003e, and \u003ca  href=\"/boardgame/302524/super-skill-pinball-4-cade\"   \u003eSuper-Skill Pinball: 4-Cade\u003c/a\u003e; it is often the basis for the game genres of \u003ca  href=\"/boardgamefamily/41222/mechanism-roll-and-write\"   \u003eMechanism: Roll-and-Write\u003c/a\u003e and \u003ca  href=\"/boardgamefamily/66143/mechanism-flip-and-write\"   \u003eMechanism: Flip-and-Write\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Bribery",
+      "dataDescription": "\u003cp\u003ePlayers offer bribes to other players to get them to perform specific actions.\u003c/p\u003e\n\n\u003cp\u003eTypically players will place bribes on certain actions, and if another player selects that choice they get the bribe. Otherwise it is returned to the player. \u003ca  href=\"/boardgame/8125/santiago\"   \u003eSantiago\u003c/a\u003e and \u003ca  href=\"/boardgame/322/tonga-bonga\"   \u003eTonga Bonga\u003c/a\u003e operate this way.\u003c/p\u003e\n\n\u003cp\u003eBribery can also be a part of a Negotiation mechanism, as players may offer bribes which may or may not be binding. \u003ca  href=\"/boardgame/265/intrigue\"   \u003eIntrigue\u003c/a\u003e is an example of the latter.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Campaign / Battle Card Driven",
+      "dataDescription": "\u003cp\u003eThe Campaign/Battle Card Driven mechanic is a relatively recent development in wargames that focuses the players' actions on cards they have in their hand. Performing a single action uses a single card; cards will often be multi-purpose.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgamemechanic/2840/actionevent\"   \u003eAction/Event\u003c/a\u003e is a similar but more distinctive mechanic. Games where the cards are used to deploy specific units are considered to be using \u003ca  href=\"/boardgamemechanic/2841/command-cards\"   \u003eCommand Cards\u003c/a\u003e. Games where cards are used to affect the outcome of battles are considered to be using \u003ca  href=\"/boardgamemechanic/2857/card-play-conflict-resolution\"   \u003eCard Play Conflict Resolution\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Card Play Conflict Resolution",
+      "dataDescription": "\u003cp\u003eEach player simultaneously or sequentially plays one or more cards. These modify the base outcome of a conflict and allow various special abilities to apply.\u003c/p\u003e\n\n\u003cp\u003eThis can function similarly to \u003ca  href=\"/boardgamemechanic/2080/area-majority-influence\"   \u003eArea Majority / Influence\u003c/a\u003e, but with a discrete resolution or award of the conflict target, rather than by dynamic/shifting control of a fixed asset.  It is also similar to \u003ca  href=\"/boardgamemechanic/2864/force-commitment\"   \u003eForce Commitment\u003c/a\u003e, but that mechanic presupposes a more liquid resource where the quantity can be chosen.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Catch the Leader",
+      "dataDescription": "\u003cp\u003eThe game systems advantage players that are behind or disadvantage players that are ahead.\u003c/p\u003e\n\n\u003cp\u003eIf this advantage is limited to turn order, then \u003ca  href=\"/boardgamemechanic/2826/turn-order-stat-based\"   \u003eTurn Order: Stat-Based\u003c/a\u003e should be tagged instead.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Chaining",
+      "dataDescription": "\u003cp\u003ePieces are stationary but are built out in chains. This can give a dynamic sense of motion to the game, even though the pieces do not move.\u003c/p\u003e\n\n\u003cp\u003eEarly examples of this mechanism can be found in \u003ca  href=\"/boardgame/223/expedition\"   \u003eExpedition\u003c/a\u003e and \u003ca  href=\"/boardgame/503/through-desert\"   \u003eThrough the Desert\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Chit-Pull System",
+      "dataDescription": "\u003cp\u003eUsed in wargames to address the problem of simulating simultaneous action on the battlefield and issues of \u0026quot;Command and Control\u0026quot;. In such a system the current player randomly draws a chit or counter identifying a group of units which may now be moved. Schemes include moving any units commanded by a particular leader, moving units of a particular quality or activating units not for movement but for fighting.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/127493/bolt-action\"   \u003eBolt Action\u003c/a\u003e is an example of such mechanics.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Closed Drafting",
+      "dataDescription": "\u003cp\u003eClosed Drafting (or 'Card Drafting') is a means of distributing cards or other game elements to players through an ordered, closed selection process - typically \u0026quot;select and pass\u0026quot;.\u003c/p\u003e\n\n\u003cp\u003eA typical implementation involves each player being dealt the same number of cards. Players then select one (or more) card(s) to keep, and pass the rest to their left. This continues until all cards are selected or discarded. \u003ca  href=\"/boardgame/68448/7-wonders\"   \u003e7 Wonders\u003c/a\u003e implements this type of draft.\u003c/p\u003e\n\n\u003cp\u003eAn alternative is that only one player is dealt cards, and they take one and pass it until all players have cards. This obviously is strongly biased towards the first player, and needs to be supported thematically and balance-wise. \u003ca  href=\"/boardgame/478/citadels\"   \u003eCitadels\u003c/a\u003e implements this type of draft.\u003c/p\u003e\n\n\u003cp\u003eThis is distinct from \u003ca  href=\"/boardgamemechanic/2041/open-drafting\"   \u003eOpen Drafting\u003c/a\u003e, with involves selection from a public display.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadge\u003c/strong\u003e\u003cbr /\u003e\n\u003ca href=\"/microbadge/29032\"\u003e\u003cimg alt='Microbadge: Card drafting fan' onmouseover=\"return overlib('Card drafting fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_29032_0.png\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/29032\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eCard drafting fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Closed Economy Auction",
+      "dataDescription": "\u003cp\u003eClosed-Economy is a meta-mechanism that can modify any auction type. In a Closed-Economy Auction, all the money spent in the auction is paid out to the auction participants themselves.\u003c/p\u003e\n\n\u003cp\u003eFor example, in \u003ca  href=\"/boardgame/904/nightmare-productions\"   \u003eNightmare Productions\u003c/a\u003e, the winning bid is distributed evenly between the non-winning players, and losing bids is the only way to gain more money.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Command Cards",
+      "dataDescription": "\u003cp\u003ePlayers have a hand of cards that allows them to activate and perform actions with a subset of their units.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Commodity Speculation",
+      "dataDescription": "\u003cp\u003eA subcategory of \u003ca  href=\"/boardgamemechanic/2910/investment\"   \u003eInvestment\u003c/a\u003e in which players buy and sell commodities of various types and quantities as they change value throughout the game.\u003c/p\u003e\n\n\u003cp\u003eCommodity Speculation includes both Investment games in which players have some indirect control over asset values, but have a hard time hurting others without hurting themselves; and Collusion games, in which players have huge direct control in manipulating asset values, forcing players to help others and manage shifting alliances.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Communication Limits",
+      "dataDescription": "\u003cp\u003eGames may limit players from communicating with one another openly. These restrictions can be absolute as they relate to certain specific pieces of information, or they may restrict certain types of communication, such as speaking.\u003c/p\u003e\n\n\u003cp\u003eExamples of this mechanism include \u003ca  href=\"/boardgame/98778/hanabi\"   \u003eHanabi\u003c/a\u003e and \u003ca  href=\"/boardgame/86156/reverse-charades\"   \u003eReverse Charades\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Connections",
+      "dataDescription": "\u003cp\u003ePlayers are trying to form connections between different points on the board. Essentially, this is a specialized kind of set collection in which the sets collected represent ties between nodes, often represented as routes between destinations.\u003c/p\u003e\n\n\u003cp\u003eThis mechanism includes games like \u003ca  href=\"/boardgame/4112/hex\"   \u003eHex\u003c/a\u003e, \u003ca  href=\"/boardgame/2842/transamerica\"   \u003eTransAmerica\u003c/a\u003e, and \u003ca  href=\"/boardgame/117/ta-yu\"   \u003eTa Yü\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Constrained Bidding",
+      "dataDescription": "\u003cp\u003eThis is a meta-mechanism that can modify other auction techniques. Players may not bid any number that they wish. They may only bid based on increments and/or combinations of certain resources.\u003c/p\u003e\n\n\u003cp\u003eExamples of this are \u003ca  href=\"/boardgame/12/ra\"   \u003eRa\u003c/a\u003e, which forces players to select one of three bid tiles for their bid, and \u003ca  href=\"/boardgame/220/high-society\"   \u003eHigh Society\u003c/a\u003e, where players must increase bids by adding money cards from their hand and are not allowed to make change.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Contracts",
+      "dataDescription": "\u003cp\u003ePlayers fulfill Contracts to earn rewards. These take the form of special goals requiring coordination and planning beyond simply being \u0026quot;first past the post\u0026quot;. These can be either public, where all players compete to be the first to complete them, or private, where only the owning player may fulfill them.\u003c/p\u003e\n\n\u003cp\u003eThis often takes the form of a special type of \u003ca  href=\"/boardgamemechanic/2004/set-collection\"   \u003eSet Collection\u003c/a\u003e, such as in \u003ca  href=\"/boardgame/171623/voyages-marco-polo\"   \u003eThe Voyages of Marco Polo\u003c/a\u003e where Contracts defining an ad hoc set of resources may be claimed to obtain the corresponding reward. \u003ca  href=\"/boardgamemechanic/2007/pick-and-deliver\"   \u003ePick-up and Deliver\u003c/a\u003e is a special case of Contracts common to train games such as \u003ca  href=\"/boardgame/168/empire-builder\"   \u003eEmpire Builder\u003c/a\u003e which should be selected for those games.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Cooperative Game",
+      "dataDescription": "\u003cp\u003ePlayers coordinate their actions to achieve a common win condition or conditions. Players all win or lose the game together.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadges\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/5792\"\u003e\u003cimg alt='Microbadge: Cooperative Games fan' onmouseover=\"return overlib('Cooperative Games fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_5792_0.gif\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/5792\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eCooperative Games fan\u003c/a\u003e\u003cbr /\u003e\n\u003ca href=\"/microbadge/6391\"\u003e\u003cimg alt='Microbadge: Cooperative Games fan' onmouseover=\"return overlib('Cooperative Games fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_6391_0.gif\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/6391\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eCooperative Games fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Crayon Rail System",
+      "dataDescription": "\u003cp\u003eThe Crayon Rail System is a subcategory of Route/Network Building. Types of these games use crayon or other non-permanent methods of making connecting lines on a board, often eraseable.  The most popular Crayon Rail games are part of the \u003ca  href=\"/boardgame/168/empire-builder\"   \u003eEmpire Builder\u003c/a\u003e system.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Critical Hits and Failures",
+      "dataDescription": "\u003cp\u003eDice are rolled, and those exceeding a target number generate a success. Certain rolls (typically the highest and/or lowest on the die) generate additional success or extreme failure.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Cube Tower",
+      "dataDescription": "\u003cp\u003eActions are resolved by dropping cubes of various colors into a tower and seeing which emerge out the bottom. Cubes that do not emerge may come out in future actions, and impact those. This is in essence a particular form of a shared \u003ca  href=\"/boardgamemechanic/2664/deck-bag-and-pool-building\"   \u003eDeck, Bag, and Pool Building\u003c/a\u003e as implemented by a \u003ca  href=\"/boardgamefamily/66772/components-drop-tower\"   \u003eComponents: Drop Tower\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/3307/wallenstein\"   \u003eWallenstein\u003c/a\u003e is an early example.\u003c/p\u003e\n\n\u003cp\u003eNote that this is different to mechanics like the Castillo in \u003ca  href=\"/boardgame/93/el-grande\"   \u003eEl Grande\u003c/a\u003e, where cubes are dropped, but serves as a place to hide them until revealed.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Deck Construction",
+      "dataDescription": "\u003cp\u003eAs the first step, or prior to playing the game, players create the deck they will use.\u003c/p\u003e\n\n\u003cp\u003eExamples include \u003ca  href=\"/boardgame/463/magic-gathering\"   \u003eMagic: The Gathering\u003c/a\u003e or \u003ca  href=\"/boardgame/122522/smash\"   \u003eSmash Up\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Deck, Bag, and Pool Building",
+      "dataDescription": "\u003cp\u003ePlayers play cards out of individual decks, seeking to acquire new cards and to play through their decks iteratively, improving them over time through card acquisition or card elimination.\u003c/p\u003e\n\n\u003cp\u003eIt may include a \u0026quot;random-draw\u0026quot; to form a hand from the deck for the current round (as in \u003ca  href=\"/boardgame/147020/star-realms\"   \u003eStar Realms\u003c/a\u003e) and the deck is automatically reset once the draw pile is exhausted; or it may allow access to all available cards at once (as in \u003ca  href=\"/boardgame/124361/concordia\"   \u003eConcordia\u003c/a\u003e) until the discards are retrieved. The latter may embody the \u003ca  href=\"/boardgamemechanic/2839/action-retrieval\"   \u003eAction Retrieval\u003c/a\u003e mechanic, where the card use activate actions.\u003c/p\u003e\n\n\u003cp\u003eThis category also covers Bag Building, Pool Building, and related mechanisms (using chits, dice, etc).\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/36218/dominion\"   \u003eDominion\u003c/a\u003e pioneered this mechanism.\u003c/p\u003e\n\n\u003cp\u003e\u003cem\u003eUseful lists on the subject:\u003c/em\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/geeklist/158298/deck-building-games-your-favourites-and-why\"   \u003eDeck-building Games: Your favourites and why\u003c/a\u003e\u003cbr /\u003e\n\u003ca  href=\"/geeklist/43837/sons-dominion\"   \u003eThe sons of Dominion\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadge\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/13167\"\u003e\u003cimg alt='Microbadge: Deck Building fan' onmouseover=\"return overlib('Deck Building fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_13167_1.png\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/13167\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eDeck Building games fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Deduction",
+      "dataDescription": "\u003cp\u003ePlayers are trying to determine the identity of hidden information based on clues.\u003c/p\u003e\n\n\u003cp\u003eExamples include \u003ca  href=\"/boardgame/1294/clue\"   \u003eClue\u003c/a\u003e and \u003ca  href=\"/boardgame/594/sleuth\"   \u003eSleuth\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Delayed Purchase",
+      "dataDescription": "\u003cp\u003eItems that are purchased do not enter play right away but arrive on a future turn.\u003c/p\u003e\n\n\u003cp\u003eThis is a typical default characteristic of most \u003ca  href=\"/boardgamemechanic/2664/deck-bag-and-pool-building\"   \u003eDeck, Bag, and Pool Building\u003c/a\u003e games such \u003ca  href=\"/boardgame/36218/dominion\"   \u003eDominion\u003c/a\u003e where purchased cards are placed into the discards.\u003c/p\u003e\n\n\u003cp\u003eOther examples of this mechanism include \u003ca  href=\"/boardgame/1499/world-flames\"   \u003eWorld in Flames\u003c/a\u003e, which uses a \u0026quot;Production Spiral\u0026quot; so purchased troops, planes and fleets come into the game several months (or years) in the future depending on how long they take to build.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Dice Rolling",
+      "dataDescription": "is a game mechanism that can be used for many things, randomness being the most obvious.\u003c/p\u003e\n\n\u003cp\u003eIn wargames, \u0026quot;Dice Rolling\u0026quot; is used in conjunction with a variety of tables, notably a \u0026quot;Combat Results Table\u0026quot; (either as a Ratio or a Differential) which produces a result by strengths of both sides and a die roll (1D6, 2D6, and 1D10 are most commonly used).\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Dice Rolling\u0026quot; can be a game in and of itself see Yahtzee or Craps.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadge\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/29064\"\u003e\u003cimg alt='Microbadge: I love dice games!' onmouseover=\"return overlib('I love dice games!', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_29064_0.png\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/29064\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eDice games fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Die Icon Resolution",
+      "dataDescription": "\u003cp\u003eThe player rolls a number of custom dice to resolve an event or conflict. Results must match specific symbols for success.\u003c/p\u003e\n\n\u003cp\u003eThis is not the same as \u003ca  href=\"/boardgamemechanic/2935/worker-placement-dice-workers\"   \u003eWorker Placement with Dice Workers\u003c/a\u003e, as used for example in \u003ca  href=\"/boardgame/132531/roll-galaxy\"   \u003eRoll for the Galaxy\u003c/a\u003e, where any result may be usable to accomplish actions selected after rolling.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Different Dice Movement",
+      "dataDescription": "\u003cp\u003eDifferent Dice are used to move depending on unit or game state.\u003c/p\u003e\n\n\u003cp\u003eAn early example of this is \u003ca  href=\"/boardgame/173/formula-de\"   \u003eFormula Dé\u003c/a\u003e, where different dice represent different gears on a race car.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Drawing",
+      "dataDescription": "\u003cp\u003ePlayers draw a picture and other players guess what the picture is intended to depict. NOTE: This is distinct from Line Drawing, which is where non-representative lines are drawn, typically to connect points (as in Dots \u0026amp; Boxes).\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Elapsed Real Time Ending",
+      "dataDescription": "\u003cp\u003eThe game ends after a set amount of actual time has elapsed. During the game, individual players may have separate turns, or play may be simultaneous--in which all players play at the same time.\u003c/p\u003e\n\n\u003cp\u003eThis is sometimes mediated by a soundtrack, as in \u003ca  href=\"/boardgame/38453/space-alert\"   \u003eSpace Alert\u003c/a\u003e, or can simply be elapsed time on a clock, as in \u003ca  href=\"/boardgame/715/escape-colditz\"   \u003eEscape from Colditz\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eOther representative games in this category are \u003ca  href=\"/boardgame/113294/escape-curse-temple\"   \u003eEscape: The Curse of the Temple\u003c/a\u003e, \u003ca  href=\"/boardgame/38453/space-alert\"   \u003eSpace Alert\u003c/a\u003e, and most \u0026quot;escape room\u0026quot; type games, including the \u003ca  href=\"/boardgamefamily/61223/series-escape-room-game-identity-games-internation\"   \u003eEscape Room: The Game\u003c/a\u003e series and the \u003ca  href=\"/boardgamefamily/39442/series-unlock-space-cowboys\"   \u003eUnlock!\u003c/a\u003e series.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Enclosure",
+      "dataDescription": "\u003cp\u003eIn Area Enclosure games, players place or move pieces in order to surround areas contiguously with their pieces.  The oldest and most famous Area Enclosure game is of course \u003ca  href=\"/boardgame/188/go\"   \u003eGo\u003c/a\u003e, but many newer examples also exist.\u003c/p\u003e\n\n\u003cp\u003eArea Enclosure is different than \u003ca  href=\"/boardgamemechanic/2080/area-majority-influence\"   \u003eArea Majority / Influence\u003c/a\u003e because players actually create the areas on a gridded board during the course of play, whereas in Area Majority/Influence the actual areas are pre-existing and players are merely competing control over them.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "End Game Bonuses",
+      "dataDescription": "\u003cp\u003ePlayers earn (or lose!) bonus Victory Points (VPs) at the end of the game based on meeting victory conditions.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Events",
+      "dataDescription": "\u003cp\u003eActions occur outside the control of players that cause an immediate effect, change the state of the game, or impact subsequent actions.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Finale Ending",
+      "dataDescription": "\u003cp\u003eWhen the main game ends, a special mini-game is played to determine the victor.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/17835/monsters-menace-america\"   \u003eMonsters Menace America\u003c/a\u003e is an example of this mechanism.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Flicking",
+      "dataDescription": "\u003cp\u003eA Physical Action needs to be performed by one or more players to determine the outcome of the action.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Follow",
+      "dataDescription": "\u003cp\u003eOne player selects an Action. Other players may then perform that Action, or a modified version of it. This is closely related to Action Drafting (ACT-02) and Role Selection (TRN-10), and is often implemented alongside those systems.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Force Commitment",
+      "dataDescription": "\u003cp\u003eThe players select how many of their forces they will commit to the battle to different categories. This can be simultaneous (hidden) or incrementally, prior to resolution. Frequently players must lose all forces that they commit. Arguably this is a form of auction/bidding, but distinctive when applied to war or area control games for multiple/parallel contests.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/121/dune\"   \u003eDune\u003c/a\u003e is an early example of this mechanism.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Grid Coverage",
+      "dataDescription": "\u003cp\u003eA family of mechanisms in which players cover a grid or fill a space using a variety of shapes, such as \u003ca  href=\"/boardgamefamily/24571/components-polyominoes\"   \u003eComponents: Polyominoes\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eSometimes called a \u0026quot;Tetris mechanism\u0026quot;, this challenges players to use shapes efficiently. It can either be the primary point of the game, as in \u003ca  href=\"/boardgame/16986/ubongo\"   \u003eUbongo\u003c/a\u003e, or as a secondary mechanism to force players to plan and restrict their options, as in \u003ca  href=\"/boardgame/555/princes-florence\"   \u003eThe Princes of Florence\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eGames that use a single piece type to construct or enclose areas-of-control (especially when in competition over common spaces) are utilizing \u003ca  href=\"/boardgamemechanic/2043/enclosure\"   \u003eEnclosure\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Grid Movement",
+      "dataDescription": "\u003cp\u003eGrid Movement occurs when pawns move on the grid in many directions. The grid may be square (like in Chess) or hexagonal (like in the classic wargames).\u003c/p\u003e\n\n\u003cp\u003eIn a game there can be many pawns (like in Chess or Checkers) or only one (like the bishop in Fresco).\u003c/p\u003e\n\n\u003chr /\u003e\n\u003cp\u003eNote that the related Mechanic categories for Hexagon Grid and Square Grid only designate the type of playing field. Some games do not involve movement of pieces on such a playing grid, only placement. Thus, this mechanic supplements either of the \u0026quot;- Grid\u0026quot; mechanics by identifying specifically when the grid is used for movement purposes.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Hand Management",
+      "dataDescription": "\u003cp\u003eHand management games are games with cards in them that reward players for playing the cards in certain sequences or groups. The optimal sequence/grouping may vary, depending on board position, cards held and cards played by opponents. Managing your hand means gaining the most value out of available cards under given circumstances. Cards often have multiple uses in the game, further obfuscating an \u0026quot;optimal\u0026quot; sequence.\u003c/p\u003e\n\n\u003cp\u003eHand management has no relationship to action/dexterity.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Hexagon Grid",
+      "dataDescription": "\u003cp\u003ePieces are placed on a board tessellated with hexagons, which is used for adjacency and/or movement.\u003c/p\u003e\n\n\u003chr /\u003e\n\u003cp\u003ePreviously this category was known as \u0026quot;hex and counter.\u0026quot; While the Hexagon Grid mechanic now covers a wider range of games, the original description highlights important facets of a large class of games that fall under this mechanic:\u003c/p\u003e\n\n\u003cp\u003eClassic wargame mechanic, played with 'counters' on a map with a hexagonal grid. The hex grid allowed for equidistant movement of counters in more directions (6) than a square grid, and avoided the simulation issues caused by diagonal movement on a square grid (i.e. diagonal moves being further in distance than orthogonal moves).\u003c/p\u003e\n\n\u003cp\u003e+  Pieces are placed on a board tessellated with hexagons, which is used for adjacency and/or movement\u003c/p\u003e\n\n\u003cp\u003e+ Counters are commonly thick cardboard chits, with printed attributes and identification.\u003c/p\u003e\n\n\u003cp\u003e+  Many of these games include a concept called \u0026quot;\u003ca rel=\"nofollow\" href=\"https://boardgamegeek.com/boardgamemechanic/2974/zone-control\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003ezone of control\u003c/a\u003e\u0026quot; (\u003cem\u003enow a separate mechanic\u003c/em\u003e) which hinders or stops movement when units move or start next to an opposing unit. The exact effects vary, depending upon the era being simulated and other design concerns.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Hidden Movement",
+      "dataDescription": "\u003cp\u003eMovement occurs that is not visible to all players.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/438/scotland-yard\"   \u003eScotland Yard\u003c/a\u003e is a classic game implementing this mechanism.\u003c/p\u003e\n\n\u003cp\u003eA key challenge for designers is determining how to make the movement rules simple enough that the players moving hidden units do not make mistakes, or that paths are traceable when the game concludes.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Hidden Roles",
+      "dataDescription": "\u003cp\u003eIn games with \u003cstrong\u003ehidden roles\u003c/strong\u003e, one or more players are assigned differing roles that are not publicly revealed.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Hidden Victory Points",
+      "dataDescription": "\u003cp\u003eThe number of Victory Points held by each player is private information.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Highest-Lowest Scoring",
+      "dataDescription": "\u003cp\u003eEach player\u0026rsquo;s score is equal to the lowest value of several categories. Whoever has the highest lowest value is the winner.\u003c/p\u003e\n\n\u003cp\u003eThis system is normally known as Knizia scoring. \u003ca  href=\"/boardgame/42/tigris-euphrates\"   \u003eTigris \u0026 Euphrates\u003c/a\u003e is an early example of this mechanism. Players are collecting four different color cubes - red, green, blue, and yellow - and their score is the color that they have the least of. A player with 12 red, 10 green, 6 blue, and 2 yellow has a final score of 2. This forces players to not be too specialized in which cubes they collect.\u003c/p\u003e\n\n\u003cp\u003eHighest-Lowest Scoring is a special case of \u003ca  href=\"/boardgamemechanic/2004/set-collection\"   \u003eSet Collection\u003c/a\u003e, where only complete sets are counted.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Hot Potato",
+      "dataDescription": "\u003cp\u003eA single item is bad for players to have, and players strive to pass it to other players or avoid it so they are not holding it at game end or some other defined time.\u003c/p\u003e\n\n\u003cp\u003eExample games include \u003ca  href=\"/boardgame/10799/old-maid\"   \u003eOld Maid\u003c/a\u003e, \u003ca  href=\"/boardgame/172225/exploding-kittens\"   \u003eExploding Kittens\u003c/a\u003e, and \u003ca  href=\"/boardgame/2582/catch-phrase\"   \u003eCatch Phrase!\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "I Cut, You Choose",
+      "dataDescription": "\u003cp\u003eA method of drafting where one player divides a set of resources into different groups; other players have first choice of which group to select.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/1041/san-marco\"   \u003eSan Marco\u003c/a\u003e and \u003ca  href=\"/boardgame/208895/new-york-slice\"   \u003eNew York Slice\u003c/a\u003e implement versions of this mechanism.\u003c/p\u003e\n\n\u003cp\u003eThis mechanism can also be used to divide more abstract resources, like turn order. Many games use the so-called \u0026quot;pie rule\u0026quot; or \u0026quot;swap rule\u0026quot; to minimize first player advantage, e.g. \u003ca  href=\"/boardgame/4112/hex\"   \u003eHex\u003c/a\u003e. In this game, the first player makes the first move of the game, and then the second player can choose to switch sides (taking over the first player's color as well as that first move), or to let the first player stay with that color and first move, and the second player then makes their first move in response to the first player's move. After that, turns continue as usual.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Impulse Movement",
+      "dataDescription": "\u003cp\u003eA turn is broken up into a series of small Impulses. Depending on their speed, units will be able to move in specific Impulses.\u003c/p\u003e\n\n\u003cp\u003eAn early example of this is contained in \u003ca  href=\"/boardgame/1589/star-fleet-battles\"   \u003eStar Fleet Battles\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Income",
+      "dataDescription": "\u003cp\u003ePlayers gain resources at defined times.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Increase Value of Unchosen Resources",
+      "dataDescription": "\u003cp\u003eIf players do not select certain Actions or Resources, then they increase in value.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/3076/puerto-rico\"   \u003ePuerto Rico\u003c/a\u003e is a classic example of this technique, as unchosen roles have a coin placed on them. This mechanism is a simple way for designers to balance different options.\u003c/p\u003e\n\n\u003cp\u003eThe money may either come from the bank, as in Puerto Rico, or from the players themselves, as is done in \u003ca  href=\"/boardgame/40692/small-world\"   \u003eSmall World\u003c/a\u003e, where players must place a coin on factions that are skipped.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Induction",
+      "dataDescription": "\u003cp\u003ePlayers are attempting to determine the rules governing a situation. In a typical induction games, a game master creates a hidden rule. Players then create patterns and are advised by the game master whether they match the rule or not.\u003c/p\u003e\n\n\u003cp\u003eExamples include \u003ca  href=\"/boardgame/5217/eleusis\"   \u003eEleusis\u003c/a\u003e and \u003ca  href=\"/boardgame/6830/zendo\"   \u003eZendo\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Interrupts",
+      "dataDescription": "\u003cp\u003eThis is a meta-mechanic for Turn Order. Players may take an action that interrupts the normal turn flow.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Investment",
+      "dataDescription": "\u003cp\u003ePlayers purchase shares in a game entity, in order to generate a monetary or VP benefit.\u003c/p\u003e\n\n\u003cp\u003eThis differs from \u003ca  href=\"/boardgamemechanic/2911/ownership\"   \u003eOwnership\u003c/a\u003e in that Investment does not grant special actions or other \u0026quot;game effect\u0026quot; privileges based on the investment.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/5/acquire\"   \u003eAcquire\u003c/a\u003e is an early example of the Investment mechanism.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Kill Steal",
+      "dataDescription": "\u003cp\u003ePlayers contribute towards completing a task, but only the player who finally completes it gets a particular benefit or bonus reward (even if others share in the base level benefit).\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/28259/cutthroat-caverns\"   \u003eCutthroat Caverns\u003c/a\u003e is an example of this mechanism.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "King of the Hill",
+      "dataDescription": "\u003cp\u003eGames with a \u003cstrong\u003eking of the hill\u003c/strong\u003e mechanism reward players with points or other advantages for occupying a special position on the board. How long can you hold your ground?\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Ladder Climbing",
+      "dataDescription": "\u003cp\u003ePlayers play one card, or a set of related cards. Subsequently, players must play cards of an equal or higher value of the same set already played. The last player to successfully play wins the right to start a new round of Climbing.\u003c/p\u003e\n\n\u003cp\u003eThis mechanism originated in East Asia, and is represented by modern games such as \u003ca  href=\"/boardgame/215/tichu\"   \u003eTichu\u003c/a\u003e and \u003ca  href=\"/boardgame/929/great-dalmuti\"   \u003eThe Great Dalmuti\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Layering",
+      "dataDescription": "\u003cp\u003eComponents are placed above other components, partially covering the ones below, or overlapping in various ways. Only the topmost visible icons/areas are active.\u003c/p\u003e\n\n\u003cp\u003eExamples include \u003ca  href=\"/boardgame/144041/patchistory\"   \u003ePatchistory\u003c/a\u003e and \u003ca  href=\"/boardgame/246684/smartphone-inc\"   \u003eSmartphone Inc.\u003c/a\u003e using cards, and \u003ca  href=\"/boardgame/24508/taluva\"   \u003eTaluva\u003c/a\u003e using tiles.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Legacy Game",
+      "dataDescription": "\u003cp\u003eA multi-session game in which permanent and irreversible changes to the game state carry over to future plays. Components may be written on with permanent ink, torn apart, covered with a sticker, etc.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Line Drawing",
+      "dataDescription": "\u003cp\u003eGames using the line drawing mechanic involve the drawing of lines in one way or another. Lines may be used to connect objects as in Sprouts, to isolate objects, or to create areas as in the classic Dots and Dashes, also known as Square-it.\u003c/p\u003e\n\n\u003cp\u003eDrawing of symbols or pictures is more properly classified as \u003ca  href=\"/boardgamefamily/48868/mechanism-drawing\"   \u003eMechanism: Drawing\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Line of Sight",
+      "dataDescription": "\u003cp\u003eUnits may only see certain areas.\u003c/p\u003e\n\n\u003cp\u003eMechanically this can be dealt with in a variety of ways, ranging from True Line of Sight, as measured by a string (as in \u003ca  href=\"/boardgame/243/advanced-squad-leader\"   \u003eAdvanced Squad Leader\u003c/a\u003e) to color-coded regions showing what can be see what, as in \u003ca  href=\"/boardgame/25261/tannhauser\"   \u003eTannhäuser\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Loans",
+      "dataDescription": "\u003cp\u003ePlayers may take a Loan from the bank to get more money.\u003c/p\u003e\n\n\u003cp\u003eExamples include \u003ca  href=\"/boardgame/1406/monopoly\"   \u003eMonopoly\u003c/a\u003e where players can mortgage properties, and \u003ca  href=\"/boardgame/4098/age-steam\"   \u003eAge of Steam\u003c/a\u003e, where taking loans is a key strategic consideration.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Lose a Turn",
+      "dataDescription": "\u003cp\u003eThis is a meta-mechanism that can be applied to a variety of turn structures. A player who \u0026ldquo;Loses a Turn\u0026rdquo; must skip their next opportunity for a turn, and will go to the next round, or the next time their turn arises.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Mancala",
+      "dataDescription": "\u003cp\u003eIn a typical Mancala mechanism, players pick up the tokens in one space, and then place them one-by-one in spaces in a specific direction around a circle, with the last space placed in having special significance.\u003c/p\u003e\n\n\u003cp\u003eIn addition to its namesake game \u003ca  href=\"/boardgame/2448/kalah\"   \u003eKalah\u003c/a\u003e, this mechanism can be seen in modern games such as \u003ca  href=\"/boardgame/40628/finca\"   \u003eFinca\u003c/a\u003e and \u003ca  href=\"/boardgame/144529/theseus-dark-orbit\"   \u003eTheseus: The Dark Orbit\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Map Addition",
+      "dataDescription": "\u003cp\u003eThe map is added to as it is explored. Examples include \u003ca  href=\"/boardgame/256/mississippi-queen\"   \u003eMississippi Queen\u003c/a\u003e and \u003ca  href=\"/boardgame/72125/eclipse\"   \u003eEclipse\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Map Deformation",
+      "dataDescription": "\u003cp\u003eThe map is modified during the course of the game through rotation or shifts.\u003c/p\u003e\n\n\u003cp\u003eExamples include \u003ca  href=\"/boardgame/589/wiz-war\"   \u003eWiz-War\u003c/a\u003e and \u003ca  href=\"/boardgame/12995/dungeon-twister\"   \u003eDungeon Twister\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Map Reduction",
+      "dataDescription": "\u003cp\u003eOver the course of the game, the map shrinks.\u003c/p\u003e\n\n\u003cp\u003eExamples include \u003ca  href=\"/boardgame/1875/isolation\"   \u003eIsolation\u003c/a\u003e, \u003ca  href=\"/boardgame/2653/survive-escape-atlantis\"   \u003eSurvive: Escape from Atlantis!\u003c/a\u003e, and \u003ca  href=\"/boardgame/2249/sinking-titanic\"   \u003eThe Sinking of the Titanic\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Market",
+      "dataDescription": "\u003cp\u003ePlayers may buy from or sell resources to Markets, where prices and quantities can vary. This is often a primary feature of \u003ca  href=\"/boardgamecategory/1021/economic\"   \u003eEconomic\u003c/a\u003e games, but sometimes only a secondary mechanism.\u003c/p\u003e\n\n\u003cp\u003eMany games use a \u0026quot;market\u0026quot; to price cards, tiles, etc available for permanent purchase by players, but this is a type of \u003ca  href=\"/boardgamemechanic/2041/open-drafting\"   \u003eOpen Drafting\u003c/a\u003e and should be classified as such.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Matching",
+      "dataDescription": "\u003cp\u003ePlayers must make their next play by matching a feature on the previous play. This is frequently used in shedding games like \u003ca  href=\"/boardgame/2223/uno\"   \u003eUNO\u003c/a\u003e or \u003ca  href=\"/boardgame/11017/crazy-eights\"   \u003eCrazy Eights\u003c/a\u003e, where number or color/suit need to be matched.\u003c/p\u003e\n\n\u003cp\u003eIn some implementations the next play needs to be in a number range based on the last. For example, in \u003ca  href=\"/boardgame/266083/llm\"   \u003eL.L.A.M.A.\u003c/a\u003e the play must be the same or one higher than the last. In Spit, it must be one higher or lower.\u003c/p\u003e\n\n\u003cp\u003eNOTE: Although this is similar to 'following suit' in a trick taking game, or 'ladder climbing' games, please use those mechanisms instead.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Measurement Movement",
+      "dataDescription": "\u003cp\u003ePieces may be moved up to a certain distance, measured by a ruler.\u003c/p\u003e\n\n\u003cp\u003eThis is typically used in miniatures games such as \u003ca  href=\"/boardgame/2162/warhammer-40000-third-edition\"   \u003eWarhammer 40,000 (Third Edition)\u003c/a\u003e. Because of precision issues it can sometimes lead to disagreements between players about true range.\u003c/p\u003e\n\n\u003cp\u003eNote that this mechanism differs from Template Movement, where players place templates and must move the length of the template, rather than the infinitely-variable placement noted here.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Melding and Splaying",
+      "dataDescription": "\u003cp\u003eA set of cards in a specific relationship to one another that allows them to be played to a table or scored is a meld. When laying these cards down, the way the cards splay, or overlap one another, may sometimes reveal or conceal certain abilities or attributes.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/15878/rummy\"   \u003eRummy\u003c/a\u003e games have players placing combinations of cards or tiles on the table to score. \u003ca  href=\"/boardgame/63888/innovation\"   \u003eInnovation\u003c/a\u003e is a good example of the Splaying side, where players can spread cards out to show particular sets of icons to empower abilities.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Memory",
+      "dataDescription": "\u003cp\u003eHidden, trackable information whose tracking gives players an advantage.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Minimap Resolution",
+      "dataDescription": "\u003cp\u003eWhen a conflict is initiated, pieces are moved to a separate board for resolution.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/103/titan\"   \u003eTitan\u003c/a\u003e is an early example of this mechanism.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Modular Board",
+      "dataDescription": "\u003cp\u003ePlay occurs upon a modular board that is composed of multiple pieces, often tiles or cards.\u003c/p\u003e\n\n\u003cp\u003eIn many games, board placement is randomized, leading to different possibilities for strategy and exploration.\u003c/p\u003e\n\n\u003cp\u003eSome games in this category have multiple boards which are not used simultaneously, preserving table space. Unused boards remain out of play until they are required.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadges\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/7867\"\u003e\u003cimg alt='Microbadge: Modular boards / tiles fan' onmouseover=\"return overlib('Modular boards / tiles fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_7867_0.gif\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/7867\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eModular boards / tiles games fan\u003c/a\u003e\u003cbr /\u003e\n\u003ca href=\"/microbadge/16815\"\u003e\u003cimg alt='Microbadge: Modular boards / tiles fan' onmouseover=\"return overlib('Modular boards / tiles fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_16815_1.png\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/16815\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eModular boards / tiles games fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Move Through Deck",
+      "dataDescription": "\u003cp\u003ePlayers Move Through a Deck of cards. Typically the goal is to reach the bottom (\u003ca  href=\"/boardgame/179275/one-deck-dungeon\"   \u003eOne Deck Dungeon\u003c/a\u003e), find and defeat a boss (\u003ca  href=\"/boardgame/1827/chainsaw-warrior\"   \u003eChainsaw Warrior\u003c/a\u003e), or simply know when to quit (\u003ca  href=\"/boardgame/15512/diamant\"   \u003eDiamant\u003c/a\u003e).\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Movement Points",
+      "dataDescription": "\u003cp\u003eA piece is given a number of points to spend on movement. This is common in a variety of games, but particularly war games, where spaces can cost different amounts depending on the terrain. This is distinct from \u003ca  href=\"/boardgamemechanic/2001/action-points\"   \u003eAction Points\u003c/a\u003e in that it is a property of the particular piece or terrain, rather than player options (which may \u0026lsquo;\u0026rsquo;include\u0026rsquo;\u0026rsquo; movement).\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Movement Template",
+      "dataDescription": "\u003cp\u003eA defined Movement Template is used to determine where a piece moves to.\u003c/p\u003e\n\n\u003cp\u003eAn early example of this is \u003ca  href=\"/boardgame/508/blue-max\"   \u003eBlue Max\u003c/a\u003e, but the mechanic was also successful used in \u003ca  href=\"/boardgame/9203/wings-war-famous-aces\"   \u003eWings of War\u003c/a\u003e  and the \u003ca  href=\"/boardgame/103885/star-wars-x-wing-miniatures-game\"   \u003eX-Wing Miniatures Game\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Moving Multiple Units",
+      "dataDescription": "\u003cp\u003eActions may Move one or Multiple Units.\u003c/p\u003e\n\n\u003cp\u003eThis mechanism was first introduced in \u003ca  href=\"/boardgame/932/top-race\"   \u003eTop Race\u003c/a\u003e.  Players place wagers on cars in a race, and so have a vested interested in certain ones winning. However the cards they need to play move many cars, including those they want to lose. So they need to time the play of the cards when they will be most advantageous to the cars they control, and minimize the movement of the other cars.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003ePLEASE NOTE:\u003c/strong\u003e Moving Multiple Units is NOT a Wargame or Strategy Game mechanism.\u003cbr /\u003e\nIt is a typical mechanism of some car racing games (described in detail in the previous paragraph) that has nothing to do with the possibility of moving one or more units or pieces during the movement phases of the aforementioned categories of boardgames\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Multi-Use Cards",
+      "dataDescription": "\u003cp\u003eMultiple actions are shown on a card, but only one can be used.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Multiple Maps",
+      "dataDescription": "\u003cp\u003eThe game takes place on Multiple Maps which are connected at defined points.\u003c/p\u003e\n\n\u003cp\u003eSeveral examples stand out. The fantasy rail game \u003ca  href=\"/boardgame/130/iron-dragon\"   \u003eIron Dragon\u003c/a\u003e has a surface and cavern map, and players can build and connect tracks in both.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/25674/khronos\"   \u003eKhronos\u003c/a\u003e has three boards representing the same space at different times. Building on the older board impacts history on the future boards.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/4370/fische-fluppen-frikadellen\"   \u003eFische Fluppen Frikadellen\u003c/a\u003e allows up to 15 players to trade goods across three separate boards at different areas of the room. Players may leave and physically move between boards at defined times, taking their money and goods with them.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Narrative Choice / Paragraph",
+      "dataDescription": "\u003cp\u003eMultiple action options are presented to the players via a narrative format.\u003c/p\u003e\n\n\u003cp\u003eThese can be presented in a book with numbered paragraphs as in \u003ca  href=\"/boardgame/34119/tales-arabian-nights\"   \u003eTales of the Arabian Nights\u003c/a\u003e or \u003ca  href=\"/boardgame/172818/above-and-below\"   \u003eAbove and Below\u003c/a\u003e, or via cards as in \u003ca  href=\"/boardgame/150376/dead-winter-crossroads-game\"   \u003eDead of Winter: A Crossroads Game\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Negotiation",
+      "dataDescription": "\u003cp\u003ePlayers make agreements about coordinating action, beyond simply \u003ca  href=\"/boardgamemechanic/2008/trading\"   \u003eTrading\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eAgreements may be either binding or non-binding. \u003ca  href=\"/boardgame/483/diplomacy\"   \u003eDiplomacy\u003c/a\u003e is a notable example of the latter.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Neighbor Scope",
+      "dataDescription": "\u003cp\u003eActions, resources, or resolution are shared between neighbors.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Network and Route Building",
+      "dataDescription": "effect beyond merely scoring, such as the ability to trigger actions, or requiring maintenance costs.\u003c/p\u003e\n\n\u003cp\u003eThere are a variety of implementations of this system, most prominently in train-themed games. \u003ca  href=\"/boardgame/421/1830-railways-robber-barons\"   \u003e1830: Railways \u0026 Robber Barons\u003c/a\u003e uses tiles with pre-printed tracks. \u003ca  href=\"/boardgame/168/empire-builder\"   \u003eEmpire Builder\u003c/a\u003e has players draw lines on the map with crayons or dry-erase markers. In \u003ca  href=\"/boardgame/2651/power-grid\"   \u003ePower Grid\u003c/a\u003e the development of your network has economic impacts. \u003ca  href=\"/boardgame/43015/hansa-teutonica\"   \u003eHansa Teutonica\u003c/a\u003e generates bonus effects as you complete connections in your trading network.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Once-Per-Game Abilities",
+      "dataDescription": "\u003cp\u003ePlayers have a special ability that they can use one time per game.\u003c/p\u003e\n\n\u003cp\u003eThese may be unique to them, like 'feats' in \u003ca  href=\"/boardgame/4741/warmachine\"   \u003eWarmachine\u003c/a\u003e, or common to all players, like the special power chits in \u003ca  href=\"/boardgame/40628/finca\"   \u003eFinca\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eOften players will receive bonus Victory Points if they do not use their one-time abilities during the game.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Open Drafting",
+      "dataDescription": "is a well-known game utilizing an open draft. \u003cbr /\u003e\n\u003cem\u003e\u003ca  href=\"/boardgame/230802/azul\"   \u003eAzul\u003c/a\u003e\u003c"
+   },
+   {
+      "dataName": "Order Counters",
+      "dataDescription": "\u003cp\u003ePlayers place \u0026quot;Order Markers\u0026quot; into specific regions (or zone, or hexagon, or square) of the game board, indicating what they want to do in that particular region of the game board. After all markers are placed, they are executed in sequence.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/22827/starcraft-board-game\"   \u003eStarCraft: The Board Game\u003c/a\u003e is an example of this mechanism.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Ordering",
+      "dataDescription": "\u003cp\u003eThe objective of the game is to rearrange a group of game elements from a disordered to an ordered state.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Ownership",
+      "dataDescription": "\u003cp\u003ePlayers own entities, and perform actions for those entities, or collect benefits if others use them.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/35677/le-havre\"   \u003eLe Havre\u003c/a\u003e and \u003ca  href=\"/boardgame/18602/caylus\"   \u003eCaylus\u003c/a\u003e allow players to own action spaces, and gain a benefit when other players use them.\u003c/p\u003e\n\n\u003cp\u003eThe 18xx series (such as \u003ca  href=\"/boardgame/421/1830-railways-robber-barons\"   \u003e1830: Railways \u0026 Robber Barons\u003c/a\u003e) and \u003ca  href=\"/boardgame/24181/imperial\"   \u003eImperial\u003c/a\u003e represent examples of shared ownership through the mechanism of \u003ca  href=\"/boardgamemechanic/2005/stock-holding\"   \u003eStock Holding\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Paper-and-Pencil",
+      "dataDescription": "\u003cp\u003eThe game is developed using paper and pen to mark and save responses or attributes that, at the end of the game, are used to score points and determine the winner.\u003c/p\u003e\n\n\u003cp\u003eA game that merely keeps track of score on a sheet of paper does not use a paper-and-pencil mechanism.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Passed Action Token",
+      "dataDescription": "\u003cp\u003ePlayers possess one or more Action Tokens. Those who have an Action Token may take a turn, then they pass the token clockwise, allowing the next player to perform an action. Actions are performed in real time; - there is no pausing and structure within the turn.\u003c/p\u003e\n\n\u003cp\u003eTypically, to prevent stalling and to keep the game moving, in games with multiple Action Tokens, if both tokens are held by the same player, then they suffer a penalty.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/14812/camelot\"   \u003eCamelot\u003c/a\u003e and \u003ca  href=\"/boardgame/154902/diner\"   \u003eDiner\u003c/a\u003e are examples.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Pattern Building",
+      "dataDescription": "\u003cp\u003ePlayers must configure game components in sophisticated patterns in order to score or trigger actions, as would be typical for games in the \u003ca  href=\"/boardgamecategory/1028/puzzle\"   \u003ePuzzle\u003c/a\u003e category.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/230802/azul\"   \u003eAzul\u003c/a\u003e is a modern classic designed around this mechanic. The common mechanism of \u003ca  href=\"/boardgamemechanic/2002/tile-placement\"   \u003eTile Placement\u003c/a\u003e can be considered as including pattern building via \u0026quot;feature completion\u0026quot; of connecting tiles.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Pattern Movement",
+      "dataDescription": "\u003cp\u003ePieces move in a specific pattern relative to the board grid.\u003c/p\u003e\n\n\u003cp\u003eClassic games like \u003ca  href=\"/boardgame/171/chess\"   \u003eChess\u003c/a\u003e and \u003ca  href=\"/boardgame/2065/shogi\"   \u003eShogi\u003c/a\u003e use this mechanism, as well as modern games like \u003ca  href=\"/boardgame/36235/duke\"   \u003eThe Duke\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Pattern Recognition",
+      "dataDescription": "\u003cp\u003ePlayers must recognize a known or emergent pattern created by the game components to gain objectives or win the game. This could for instance involve markers, typically with a color or symbol, placed to certain locations on a board, or relative to the other markers, forming an abstract or meaningful pattern, requiring deductive reasoning by players to determine its significance.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Physical Removal",
+      "dataDescription": "\u003cp\u003ePieces are removed from a structure, and play is affected by things that fall (as in \u003ca  href=\"/boardgame/3728/ker-plunk\"   \u003eKer Plunk\u003c/a\u003e), or a complete collapse of the structure (as in \u003ca  href=\"/boardgame/2452/jenga\"   \u003eJenga\u003c/a\u003e).\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Pick-up and Deliver",
+      "dataDescription": "\u003cp\u003eThis mechanism usually requires players to pick up an item or good at one location on the playing board and bring it to another location on the playing board. Initial placement of the item can be either predetermined or random. The delivery of the good usually gives the player money to do more actions with. In most cases, there is a game rule or another mechanic that determines where the item needs to go.\u003c/p\u003e\n\n\u003cp\u003eEmpire Builder is a classic pickup-and-deliver game from 1980 that remains popular today. In this game, players build railroads between cities, and move trains around on the track. Players hold contracts specifying that specific cities demand specific types of goods. To fulfill a contract, a player must travel to a city where that good is available, pick it up, and deliver it to the destination city. When the player completes the contract, the player receives money as specified on the contract.\u003c/p\u003e\n\n\u003cp\u003eFor an overview and discussion of popular games with this mechanism, see: \u003ca  href=\"/geeklist/157453/pickup-and-deliver-games-your-favourites-and-why\"   \u003ePickup-and-Deliver Games: Your favourites and why\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadge\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/29033\"\u003e\u003cimg alt='Microbadge: Pick up and deliver games fan' onmouseover=\"return overlib('Pick up and deliver games fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_29033_0.png\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/29033\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003ePick up and deliver games fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Pieces as Map",
+      "dataDescription": "\u003cp\u003eThe Pieces themselves compose the Map.\u003c/p\u003e\n\n\u003cp\u003eThis is distinct from \u003ca  href=\"/boardgamemechanic/2002/tile-placement\"   \u003eTile Placement\u003c/a\u003e in that the map elements remain \u0026ldquo;pieces\u0026rdquo; after placement, and accordingly continue to have agency in the game mechanics.\u003c/p\u003e\n\n\u003cp\u003eEarly examples include \u003ca  href=\"/boardgame/2655/hive\"   \u003eHive\u003c/a\u003e and \u003ca  href=\"/boardgame/5791/maelstrom\"   \u003eMaelstrom\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Player Elimination",
+      "dataDescription": "players are eliminated but multiple \u003cem\u003eother\u003c"
+   },
+   {
+      "dataName": "Player Judge",
+      "dataDescription": "\u003cp\u003eOne player, the judge, decides the outcome of the Action.\u003c/p\u003e\n\n\u003cp\u003eThis is a common mechanism in party games, including \u003ca  href=\"/boardgame/74/apples-apples\"   \u003eApples to Apples\u003c/a\u003e and \u003ca  href=\"/boardgame/50381/cards-against-humanity\"   \u003eCards Against Humanity\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Point to Point Movement",
+      "dataDescription": "\u003cp\u003eOn a board of a game with point-to-point movement, there are certain spots that can be occupied by markers or figurines, e. g. cities on a map. These points are connected by lines, and movement can only happen along these lines. It is not enough that two points are next to or close to each other; if there is no connecting line between them, a player cannot move his or her piece from one to the other.\u003c/p\u003e\n\n\u003cp\u003eExamples for point-to-point movement: \u003ca  href=\"/boardgame/3886/nine-mens-morris\"   \u003eNine Men's Morris\u003c/a\u003e, \u003ca  href=\"/boardgame/2197/kensington\"   \u003eKensington\u003c/a\u003e, \u003ca  href=\"/boardgame/12891/friedrich\"   \u003eFriedrich\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eNon-intuitive example for point-to-point movement:  \u003ca  href=\"/boardgame/181/risk\"   \u003eRisk\u003c/a\u003e.  While Risk is also an \u003ca  href=\"/boardgamemechanic/2046/area-movement\"   \u003eArea Movement\u003c/a\u003e game, like Axis \u0026amp; Allies, it encompasses point-to-point movement as well. This is due to the lines connecting various areas through the otherwise impassable water areas (e.g. Greenland, Japan, Iceland, Madagascar).\u003c/p\u003e\n\n\u003cp\u003eMovement along a track or loop representing sequential locations, including simple branching such as \u003ca  href=\"/boardgame/123540/tokaido\"   \u003eTokaido\u003c/a\u003e or \u003ca  href=\"/boardgame/28023/jamaica\"   \u003eJamaica\u003c/a\u003e, should be classified as using \u003ca  href=\"/boardgamemechanic/2939/track-movement\"   \u003eTrack Movement\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003e\t\t\u003cdiv\u003e\u003ca href=\"/image/204467\"  \u003e\u003cimg  border=0 src=\"https://cf.geekdo-images.com/QOJGo2iPgTfv-zZnnR-CsQ__small/img/cyAaHP0-2sPbkZx4c4ZF2U_Djyc=/fit-in/200x150/filters:strip_icc()/pic204467.jpg\" alt=\"Board Game: Friedrich\"\u003e\u003c/a\u003e\u003c/div\u003e\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\u003cdiv class='clear'\u003e\u003c/div\u003e\u003c/p\u003e\n\n\u003cp\u003ePictured above: Point-to-point movement in \u003ca  href=\"/boardgame/12891/friedrich\"   \u003eFriedrich\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Predictive Bid",
+      "dataDescription": "\u003cp\u003ePlayers make a prediction about what they will do in a future part of the game, and score points based on how well they match the prediction.\u003c/p\u003e\n\n\u003cp\u003eThis is most frequently seen in trick taking games like \u003ca  href=\"/boardgame/2181/bridge\"   \u003eBridge\u003c/a\u003e, \u003ca  href=\"/boardgame/592/spades\"   \u003eSpades\u003c/a\u003e, and \u003ca  href=\"/boardgame/8129/sluff\"   \u003eSluff Off!\u003c/a\u003e. It is also notably seen in \u003ca  href=\"/boardgame/121/dune\"   \u003eDune\u003c/a\u003e, as the Bene Gesserit player may steal victory from another player by successfully predicting that they will win on a particular turn.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Prisoner's Dilemma",
+      "dataDescription": "\u003cp\u003eEach player has a choice between Cooperating or Defecting. Total payoff is maximized if both players Cooperate, but if one Defects and the other Cooperates, the Defector will score more individual points.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Programmed Movement",
+      "dataDescription": "\u003cp\u003ePlayers simultaneously program their movement, and then reveal and execute it. This mechanism tends to promote chaos in a game, and benefits those with good spatial relations.\u003c/p\u003e\n\n\u003cp\u003eThis is a specialized form of the Action Queue mechanism.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/216201/robo-rally\"   \u003eRobo Rally\u003c/a\u003e is a good example of this mechanism.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadge\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/29037\"\u003e\u003cimg alt='Microbadge: Programmed movement games fan' onmouseover=\"return overlib('Programmed movement games fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_29037_0.png\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/29037\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eProgrammed movement games fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Push Your Luck",
+      "dataDescription": "\u003cp\u003ePlayers must decide between settling for existing gains, or risking them all for further rewards, in a game with some amount output randomness or luck. Push-Your-Luck is also known as press-your-luck.\u003c/p\u003e\n\n\u003cp\u003e\u003cem\u003eHere's a description of the category by Bruno Faidutti:\u003c/em\u003e\u003c/p\u003e\n\n\u003cp\u003eDouble or Quits, Keep going or stop, cash your gains or bet them. The idea is not new. Many gambling games, such as Black Jack, make an intensive use of it, as well as some traditional dice game \u0026ndash; and Pass the Pigs is only a modern version of those. This system is also used in many TV games, where the winner can either leave with his gains, either answer one more question at the risk of losing everything he won so far. Like in Luigi Comencini\u0026rsquo;s Scopone Scientifico, if you never stop, you always end losing. This system is also very efficient in board and cardgames, since it generates a high tension, and some anguish when rolling some more dice or drawing one more card. The best known \u0026ldquo;double or quits\u0026rdquo; game is probably Sid Sackson\u0026rsquo;s Can\u0026rsquo;t Stop, a clever dice game figuring, in the last edition, mountaineers so impatient to reach the summit that they usually end up falling down. It\u0026rsquo;s even trickier when all players are aboard the same ship, not knowing if, or when, it will sink. Time to leave or not ? That\u0026rsquo;s what happen in Aaron Weissblum\u0026rsquo;s Cloud Nine, as well as in Diamant, a game I designed together with Alan R. Moon.\u003c/p\u003e\n\n\u003cp\u003eHere's the introduction of the Jeopardy dice games from Reiner Knizia's \u003cem\u003eDice Games Properly Explained:\u003c/em\u003e\u003c/p\u003e\n\n\u003cp\u003eYou focus on progessing and maximising your results. But the stakes are rising. If things go wrong, you lose it all. Great risks bring great rewards - or utter defeat!\u003cbr /\u003e\nDisaster strikes in many different ways. More than ever, you need to weigh up the potential gains and losses. Rolling specific numbers or reaching certain totals may catch you out. You see disaster looming - but can you escape? Other games allow you to continue throwing as long as you keep your options open. Know when to stop and secure your results. If you get greedy and your luck fails, you are out. You need to make the right decisions and be lucky, too.\u003c/p\u003e\n\n\u003cp\u003eMicrobadge: \u003ca href=\"/microbadge/30837\"\u003e\u003cimg alt='Microbadge: Fan of Press-Your-Luck Games' onmouseover=\"return overlib('Fan of Press-Your-Luck Games', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_30837_0.png\"\u003e\u003c/a\u003e - \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/30837\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eFan of Press-Your-Luck Games\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Questions and Answers",
+      "dataDescription": "\u003cp\u003ePlayers ask and answer questions in a manner constrained by rules.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Race",
+      "dataDescription": "\u003cp\u003eGames where the first player to achieve a key objective wins the game. Typically this is expressed as the winner being the first player to reach the end of a track, but any type of fixed goal also qualifies as a Race mechanism. \u003ca  href=\"/boardgame/13/catan\"   \u003eCatan\u003c/a\u003e is an example, where players race to reach 10 points.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Random Production",
+      "dataDescription": "\u003cp\u003eResources are generated from a random process and distributed to qualifying players.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/13/catan\"   \u003eCatan\u003c/a\u003e and \u003ca  href=\"/boardgame/147/crude-oil-game\"   \u003eCrude: The Oil Game\u003c/a\u003e are based on early examples of this mechanism.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Ratio / Combat Results Table",
+      "dataDescription": "(Attacker versus Defender) which is used to index into a \u003cem\u003e\u003cstrong\u003e\u0026quot;Combat Results Table (CRT)\u0026quot;\u003c/strong\u003e\u003c/em\u003e. A dice roll then determines the final result of the combat.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Re-rolling and Locking",
+      "dataDescription": "\u003cp\u003eDice may be rerolled, or may be locked, preventing rerolling.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/2243/yahtzee\"   \u003eYahtzee\u003c/a\u003e and \u003ca  href=\"/boardgame/1302/cosmic-wimpout\"   \u003eCosmic Wimpout\u003c/a\u003e are early examples of this mechanism. More recent games include the idea of \u0026quot;locking\u0026quot;, where certain dice are prevented from being re-rolled, as in \u003ca  href=\"/boardgame/62871/zombie-dice\"   \u003eZombie Dice\u003c/a\u003e and \u003ca  href=\"/boardgame/113294/escape-curse-temple\"   \u003eEscape: The Curse of the Temple\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Real-Time",
+      "dataDescription": "\u003cp\u003eThere are no turns. Players play as quickly as possible, subject to certain constraints, until the game or phase is completed.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Relative Movement",
+      "dataDescription": "\u003cp\u003eThe precise location of units is not tracked. Only their Relative Position is important.\u003c/p\u003e\n\n\u003cp\u003eThis mechanism has been used in a variety of racing games, including \u003ca  href=\"/boardgame/635/formula-motor-racing\"   \u003eFormula Motor Racing\u003c/a\u003e and \u003ca  href=\"/boardgame/1578/roadkill\"   \u003eRoadKill\u003c/a\u003e, and other themes, like escaping from shark in \u003ca  href=\"/boardgame/30539/get-bit\"   \u003eGet Bit!\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Resource Queue",
+      "dataDescription": "\u003cp\u003eResources are in an ordered queue, and can only be pulled from one end, or rarely, both ends, but not the middle.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Resource to Move",
+      "dataDescription": "\u003cp\u003ePlayers expend a Resource to Move.\u003c/p\u003e\n\n\u003cp\u003eThis is commonly themed as fuel, but other games use money or other commodities.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Rock-Paper-Scissors",
+      "dataDescription": "\u003cp\u003eThere are three possible options, and they are cyclically superior (A beats B, B beats C, and C beats A).\u003c/p\u003e\n\n\u003cp\u003eThe name derives from the well-known children's game where\u003cbr /\u003e\n\u003cstrong\u003eScissors cuts Paper\u003c/strong\u003e\u003cbr /\u003e\n\u003cstrong\u003ePaper covers Rock\u003c/strong\u003e\u003cbr /\u003e\n\u003cstrong\u003eRock crushes Scissors\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003eBut can refer to any game with non-transitive mechanisms, e.g.\u003c/p\u003e\n\n\u003cp\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rock_Paper_Scissors_Lizard_Spock_en.svg/400px-Rock_Paper_Scissors_Lizard_Spock_en.svg.png\" alt=\"http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rock_Paper_Scissors_Lizard_Spock_en.svg/400px-Rock_Paper_Scissors_Lizard_Spock_en.svg.png\" title=\"http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rock_Paper_Scissors_Lizard_Spock_en.svg/400px-Rock_Paper_Scissors_Lizard_Spock_en.svg.png\" /\u003e\u003c!-- http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rock_Paper_Scissors_Lizard_Spock_en.svg/400px-Rock_Paper_Scissors_Lizard_Spock_en.svg.png --\u003e\u003c/p\u003e\n\n\u003cp\u003eor\u003c/p\u003e\n\n\u003cp\u003e\t\t\u003cdiv\u003e\u003ca href=\"/image/775665\"  \u003e\u003cimg  border=0 src=\"https://cf.geekdo-images.com/D8uNEN4tTXAH7q3ewrFfSg__thumb/img/UK57Ow4myfs2h5RhVtt0L2wSNiw=/fit-in/200x150/filters:strip_icc()/pic775665.jpg\" alt=\"Board Game: Aisopos\"\u003e\u003c/a\u003e\u003c/div\u003e\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\u003cdiv class='clear'\u003e\u003c/div\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Role Playing",
+      "dataDescription": "\u003cp\u003eSome board games incorporate elements of role playing. It can be that players control a character that improves over time. It can also be a game that encourages or inspires \u003ca  href=\"/boardgamemechanic/2027/storytelling\"   \u003eStorytelling\u003c/a\u003e. This mechanic can be viewed as an extension of \u003ca  href=\"/boardgamemechanic/2015/variable-player-powers\"   \u003eVariable Player Powers\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Roles with Asymmetric Information",
+      "dataDescription": "\u003cp\u003eOne or more players are secretly assigned roles at the start of the game which have different win conditions, and receive different starting information about the game state.\u003c/p\u003e\n\n\u003cp\u003eThis is a typically a subset of Hidden Roles, except that all players have incomplete information. In \u003ca  href=\"/boardgame/925/werewolf\"   \u003eWerewolf\u003c/a\u003e all werewolves know the full game state. In contrast, in \u003ca  href=\"/boardgame/166384/spyfall\"   \u003eSpyfall\u003c/a\u003e most players know the location but not who the spy is, while the spy has the opposite information.\u003c/p\u003e\n\n\u003cp\u003eExamples of this mechanism include \u003ca  href=\"/boardgame/206051/insider\"   \u003eInsider\u003c/a\u003e and \u003ca  href=\"/boardgame/166384/spyfall\"   \u003eSpyfall\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Roll / Spin and Move",
+      "dataDescription": "\u003cp\u003eRoll / Spin and move games are games where players roll dice or spin spinners and move playing pieces in accordance with the roll.\u003c/p\u003e\n\n\u003cp\u003eThis term is often used derogatorily to imply that there is no thought involved. Roll and move games like \u003ca  href=\"/boardgame/2397/backgammon\"   \u003eBackgammon\u003c/a\u003e, however, contain tactical elements.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadges\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/30898\"\u003e\u003cimg alt='Microbadge: Fan of Roll-and-Move Games' onmouseover=\"return overlib('Fan of Roll-and-Move Games', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_30898_0.png\"\u003e\u003c/a\u003e - \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/30898\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eRoll-and-Move Games fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Rondel",
+      "dataDescription": "\u003cp\u003eThe available Actions are represented as pie wedges in a circle. Each player has one or more tokens on Rondel\u0026rsquo;s wedges. On their turn, they may move their token around the Rondel and perform the Action indicated by the wedge where they stop. It is typically more costly to move further around the Rondel.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Scenario / Mission / Campaign Game",
+      "dataDescription": "\u003cp\u003eA game system that can be applied to a variety of different maps, starting resources and positions, and even different win and loss conditions. These variable conditions can be assembled into a broader narrative or campaign, or they can be entirely disconnected from one another.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Score-and-Reset Game",
+      "dataDescription": "\u003cp\u003eA game in which players play until reaching a stopping condition, then record scores, reset the game, and play one or more additional rounds. The game concludes after some number of rounds, and the cumulative score is calculated to determine a winner.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Secret Unit Deployment",
+      "dataDescription": "\u003cp\u003eSecret unit deployment games are games that contain hidden information. Only the player controlling certain playing pieces has perfect information about the nature (or even the whereabouts) of those pieces. This mechanic is often used in wargames to simulate \u0026quot;fog of war\u0026quot;.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Selection Order Bid",
+      "dataDescription": "\u003cp\u003eSelection Order Bid is a form of multiple-lot auction in which players are not directly bidding on the lots themselves, but the order in which they\u0026rsquo;ll draft the lots. As the bid increases, players may pass and accept a later place in the order. In some cases, players must pay their entire current bid (an all-pay mechanism), and in others they may recover some of their bid.\u003c/p\u003e\n\n\u003cp\u003eAn early example of this mechanism is in \u003ca  href=\"/boardgame/172/sale\"   \u003eFor Sale\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Semi-Cooperative Game",
+      "dataDescription": "\u003cp\u003eA game in which players are cooperating and competing with each other throughout the game, while trying to complete a common objective. To be classified as semi-cooperative, there must be two possible end states:\u003c/p\u003e\n\n\u003cp\u003eA) One or more (but unlikely to be all) players win\u003cbr /\u003e\nB) No players win\u003c/p\u003e\n\n\u003cp\u003eA game where players sometimes cooperate and sometimes compete but one always wins is not semi-cooperative. It is a Competitive game with a Negotiation mechanism.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Set Collection",
+      "dataDescription": "\u003cp\u003eThe value of items is dependent on being part of a set; for example, scoring according to groups of a certain quantity or variety.\u003c/p\u003e\n\n\u003cp\u003eDemonstrations:\u003cbr /\u003e\nA set of 3 of a particular item is worth points (but each item alone has no value).\u003cbr /\u003e\nA set of 3 different items is worth points (but each item alone has no value).\u003cbr /\u003e\nA particular item is worth 3 points, a set of 2 such items is worth 7 points, and a set of 3 of it is worth 13 points.\u003c/p\u003e\n\n\u003cp\u003eExample games: Players collect and harvest different types of beans in \u003ca  href=\"/boardgame/11/bohnanza\"   \u003eBohnanza\u003c/a\u003e, and they collect Monuments in \u003ca  href=\"/boardgame/12/ra\"   \u003eRa\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgamemechanic/2912/contracts\"   \u003eContracts\u003c/a\u003e should be indicated when applicable, as a more sophisticated case where the items are defined by variable goals within the game which can be claimed, typically by only one player.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Simulation",
+      "dataDescription": "\u003cp\u003eSimulation games attempt to model actual events or situations.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Simultaneous Action Selection",
+      "dataDescription": "\u003cp\u003ePlayers plan their turn simultaneously and secretly. Then, they reveal their plans at the same time.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Singing",
+      "dataDescription": "\u003cp\u003eGames that use a Singing mechanic require players to hum or sing familiar songs in order to fulfill certain game requirements.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Single Loser Game",
+      "dataDescription": "\u003cp\u003eA game which concludes when a single player loses.\u003c/p\u003e\n\n\u003cp\u003eThese are typically games designed for more than two players, although they may accommodate two players. At the two-player count, this game mechanism could apply if the loser is the one who due to their own actions is eliminated, moreso than due to the competitive play of the opponent. i.e. Chess would not be considered a \u0026quot;single loser game\u0026quot;. This is also not intended for games where the end of game trigger is due to a single player \u0026quot;busting\u0026quot; (as in Hearts). There will typically not be a winner rated among the remaining players, although some ranking system is possible, especially if played in multiple rounds.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Slide/Push",
+      "dataDescription": "\u003cp\u003ePlayers push or slide a token, and other tokens ahead of it are also pushed.\u003c/p\u003e\n\n\u003cp\u003eExamples: \u003ca  href=\"/boardgame/526/abalone\"   \u003eAbalone\u003c/a\u003e, \u003ca  href=\"/boardgame/280453/masters-renaissance-lorenzo-il-magnifico-card-game\"   \u003eMasters of Renaissance: Lorenzo il Magnifico – The Card Game\u003c/a\u003e, \u003ca  href=\"/boardgame/230244/black-angel\"   \u003eBlack Angel\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Solo / Solitaire Game",
+      "dataDescription": "is a \u0026quot;Game Mechanism\u0026quot; with which a game can be played by a single player against a \u0026quot;Bot-player\u0026quot; thanks to a specific integrated \u0026quot;Solitaire Rules System\u0026quot;.\u003c/p\u003e\n\n\u003cp\u003eTherefore belong to this category ONLY those games that are intended for play by a single player, or that have a game mode intended for play by a single player.\u003c/p\u003e\n\n\u003cp\u003eThis does not include games in which a player plays both (or multiple) factions in play to the best of his abilities (something that often happens to Wargame players or to Chess players).\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Speed Matching",
+      "dataDescription": "\u003cp\u003eA pattern is revealed, typically through a card flip, and players try to be the first to find a match with other game elements on the table, or see if a match exists.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/4000/scan\"   \u003eScan\u003c/a\u003e and \u003ca  href=\"/boardgame/8098/jungle-speed\"   \u003eJungle Speed\u003c/a\u003e are examples.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Square Grid",
+      "dataDescription": "\u003cp\u003ePieces are placed on a board tessellated with squares, which is used for adjacency and/or movement\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Stacking and Balancing",
+      "dataDescription": "\u003cp\u003ePlayers must physically stack and balance pieces.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/193042/junk-art\"   \u003eJunk Art\u003c/a\u003e and \u003ca  href=\"/boardgame/1231/bausack\"   \u003eBausack\u003c/a\u003e are examples.\u003c/p\u003e\n\n\u003cp\u003eNOTE: This is different than the common term \u0026quot;stacking\u0026quot; in wargames, where multiple counters are in a stack.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Stat Check Resolution",
+      "dataDescription": "\u003cp\u003eThere is a target number required to succeed at some test. A random number is generated (by card draw, die roll, etc.), which is compared to the target. If it meets or exceeds the target, the action succeeds.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Static Capture",
+      "dataDescription": "\u003cp\u003ePieces are captured when another piece occupies or passes over their space.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Stock Holding",
+      "dataDescription": "\u003cp\u003eStock Holding is a subcategory of \u003ca  href=\"/boardgamemechanic/2910/investment\"   \u003eInvestment\u003c/a\u003e, in which players may buy and sell (or retain) defined interests an entire asset, such as a company, commodity or nation. This will often grant certain privileges of \u003ca  href=\"/boardgamemechanic/2911/ownership\"   \u003eOwnership\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eNotable examples include \u003ca  href=\"/boardgame/5/acquire\"   \u003eAcquire\u003c/a\u003e, where players can purchase shares of companies, and benefit if those companies grow before being bought out, and \u003ca  href=\"/boardgame/24181/imperial\"   \u003eImperial\u003c/a\u003e, where players are purchasing bonds in European nations which grant not only a dividend and points at the end of the game but also the right to control that nation's actions for as long as you are the majority bondholder.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Storytelling",
+      "dataDescription": "uses a selection of words while \u003cem\u003eRory's Story Cubes\u003c"
+   },
+   {
+      "dataName": "Sudden Death Ending",
+      "dataDescription": "\u003cp\u003eThere are two distinct types of Sudden Death Endings:\u003c/p\u003e\n\n\u003cp\u003e1. In the case of a tie at the end of regular play, \u0026lsquo;sudden death\u0026rsquo; is triggered where play continues until the game ends immediately after a player achieves a certain condition (like scoring a point).\u003c/p\u003e\n\n\u003cp\u003e2. Special victory conditions which when met trigger an early and immediate end to game play (perhaps completing the current round), prior to the \u0026quot;normal\u0026quot; ending conditions for the game.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Tags",
+      "dataDescription": "\u003cp\u003eGame objects, typically cards, have icons or other identifiers that identify them as belonging to specific categories. These tags may trigger special effects and/or have values and meaning that can vary, even within the scope of a single play. Tags are additional parameters on top of the base meaning of the game element, so tags represent a means of coupling the game element with more mechanisms and systems. Tags are also bookmarks that can reference a variable set of possible rules that are encoded elsewhere, so tags are also a means to modularize, or uncouple, game triggers and game effects.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Take That",
+      "dataDescription": "\u003cp\u003eCompetitive maneuvers that directly target one opponent's progress toward victory, but do not directly eliminate any characters or components representing the opponent. Such mechanics include stealing, nullifying, or force-discarding of one opponent's resources, actions, or abilities. A take-that maneuver often results in a dramatic change in the players' position of power over a relatively short period of time.\u003c/p\u003e\n\n\u003cp\u003eIt is unclear whether this includes 2 player games (as every action inhibits your one opponent's victory).\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Targeted Clues",
+      "dataDescription": "\u003cp\u003eA player gives clues that they want some, but not all, players to guess.\u003c/p\u003e\n\n\u003cp\u003eThis is frequently used in party games, such as \u003ca  href=\"/boardgame/550/barbarossa\"   \u003eBarbarossa\u003c/a\u003e and \u003ca  href=\"/boardgame/39856/dixit\"   \u003eDixit\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Team-Based Game",
+      "dataDescription": "\u003cp\u003eIn team-based games, teams of players compete with one another to obtain victory. There are a variety of possible team structures, including symmetrical teams like 2v2 and 3v3, multiple sides like 2v2v2, and even One vs. All.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Tech Trees / Tech Tracks",
+      "dataDescription": "\u003cp\u003eDuring the course of the game, new Actions become available to specific players, or existing Actions are improved. These are often themed as Technologies, but do not need to be.\u003c/p\u003e\n\n\u003cp\u003eSometimes this is expressed as a Tree, where gaining one Tech unlocks multiple other Techs. Or it can be a track, where advancing along the track unlocks upgraded or new Actions.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Three Dimensional Movement",
+      "dataDescription": "\u003cp\u003ePosition and movement of pieces is in three dimensions. This can either be represented by a multi-level play surface, or some token or indicator of the height above or below a two-dimensional play surface.\u003c/p\u003e\n\n\u003cp\u003eExamples include \u003ca  href=\"/boardgame/2446/chopper-strike\"   \u003eChopper Strike\u003c/a\u003e, which physically has two layers for tanks and helicopters to move on, or \u003ca  href=\"/boardgame/6767/attack-vector-tactical\"   \u003eAttack Vector: Tactical\u003c/a\u003e, which includes tiles to show height above or below the play surface.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Tile Placement",
+      "dataDescription": "\u003cp\u003eTile Placement games feature placing a piece to score VPs or trigger abilities, often based on adjacent pieces or pieces in the same group/cluster, and keying off non-spatial properties like color, \u0026quot;feature completion\u0026quot;, cluster size etc.\u003c/p\u003e\n\n\u003cp\u003eA classic example is \u003ca  href=\"/boardgame/822/carcassonne\"   \u003eCarcassonne\u003c/a\u003e, where a player randomly draws a tile and place it next to other tiles and has a chance to place a meeple on the tile just played.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadge\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/29028\"\u003e\u003cimg alt='Microbadge: Tile placement / tile laying games fan' onmouseover=\"return overlib('Tile placement / tile laying games fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_29028_0.png\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"http://boardgamegeek.com/microbadge/29028\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eTile placement / tile laying games fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Track Movement",
+      "dataDescription": "\u003cp\u003ePieces are moved along a linear track (not necessarily straight - it may turn, curve or loop). \u003cbr /\u003e\nExamples include classic roll-and-move games of the \u003ca  href=\"/boardgame/2397/backgammon\"   \u003eBackgammon\u003c/a\u003e or \u003ca  href=\"/boardgame/2136/pachisi\"   \u003ePachisi\u003c/a\u003e variety, or contemporary board games such as \u003ca  href=\"/boardgame/140620/lewis-clark-expedition\"   \u003eLewis \u0026 Clark: The Expedition\u003c/a\u003e or \u003ca  href=\"/boardgame/8195/viva-topo\"   \u003eViva Topo!\u003c/a\u003e.\u003cbr /\u003e\nThis may include simple branches such as \u003ca  href=\"/boardgame/123540/tokaido\"   \u003eTokaido\u003c/a\u003e or \u003ca  href=\"/boardgame/28023/jamaica\"   \u003eJamaica\u003c/a\u003e, and tracks with limited width as is typical of racing games such as: \u003ca  href=\"/boardgame/199478/flamme-rouge\"   \u003eFlamme Rouge\u003c/a\u003e, \u003ca  href=\"/boardgame/215311/downforce\"   \u003eDownforce\u003c/a\u003e, or \u003ca  href=\"/boardgame/4209/monza\"   \u003eMonza\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Trading",
+      "dataDescription": "\u003cp\u003ePlayers may Trade assets directly with each other, rather than via a \u003ca  href=\"/boardgamemechanic/2900/market\"   \u003eMarket\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Traitor Game",
+      "dataDescription": "\u003cp\u003eA traitor game can be seen as a kind of team game, or as a cooperative game with a betrayal mechanism. The traitors typically win by triggering a failure condition for the players. For this mechanism, a traitor game is characterized by traitors that begin the game with hidden identities, or are assigned them during the game.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Trick-taking",
+      "dataDescription": "\u003cp\u003ePlayers play cards from their hand to the table in a series of rounds, or \u0026ldquo;tricks\u0026rdquo; which are each evaluated separately to determine a winner and to apply other potential effects.\u003c/p\u003e\n\n\u003cp\u003eThe most common way to win a trick is by having the card with highest value of the suit that was led, but many classical card games use the \u0026quot;trump\u0026quot; system (where the  certain cards, usually those of a designated suit, will win the trick if they are played.)  Occasionally there is a round of bidding to determine this trump suit.\u003c/p\u003e\n\n\u003cp\u003eIn many trick taking games (though not all), players are required to \u0026quot;follow suit\u0026quot;, i.e. play a card of the same suit as was led if they have one.  If they do not have a matching card, they must play another card from their hand.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Tug of War",
+      "dataDescription": "\u003cp\u003eA marker is moved up and back on a track towards or away from a neutral position.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/12333/twilight-struggle\"   \u003eTwilight Struggle\u003c/a\u003e implements this as a way of determining victory, and also acting as a Sudden Death mechanism if either player reaches the end of the track.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/132018/churchill\"   \u003eChurchill\u003c/a\u003e implements a 3-player tug-of-war to resolve the issues being debated throughout the game.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Turn Order: Auction",
+      "dataDescription": "\u003cp\u003ePlayers bid for turn order. A variety of auction mechanisms may be used.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Turn Order: Claim Action",
+      "dataDescription": "\u003cp\u003eIn each round there is a First Player, and turns are taken clockwise from the first player. There is an action that may be taken to claim a place in the turn order (typically, but not always, first) for the next round, with play proceeding clockwise from the First Player. If no one takes the action, turn order remains unchanged.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Turn Order: Pass Order",
+      "dataDescription": "\u003cp\u003eOn their turn, players may either take an action or pass. The first player who passes becomes the new first player for the next round. The second player who passes becomes the second player for the next round, and so on. Reversing pass order and turn order is also possible when going later in turn order is more advantageous.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Turn Order: Progressive",
+      "dataDescription": "\u003cp\u003eOne player has the First Player token. At the end of the round, the token passes to the player to the left, who becomes the new First Player for that round. During the round, players take turns clockwise around the table.\u003c/p\u003e\n\n\u003cp\u003eCounterclockwise movement is called \u0026quot;Regressive Turn Order\u0026quot; and can also be included in this category.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Turn Order: Random",
+      "dataDescription": "\u003cp\u003eRepresentatives of play pieces or players are randomized, and one is drawn at a time. That player or play piece takes its turn, then a new random draw is made.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Turn Order: Role Order",
+      "dataDescription": "\u003cp\u003ePlayers secretly and simultaneously select an action, role, or priority. Then they are revealed, and the actions/roles revealed determine the order in which players act.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Turn Order: Stat-Based",
+      "dataDescription": "\u003cp\u003eThe turn order within each Round is set by some statistic relating to the players\u0026rsquo; resources or position in the game. A typical case is when turn order is performed in order of current score (as a catch-up mechanism).\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Turn Order: Time Track",
+      "dataDescription": "\u003cp\u003eIn this Turn Order mechanism, there is a linear \u0026ldquo;Time Track\u0026rdquo; with many spaces. Each player has a marker on the track, which indicates where they are \u0026ldquo;in time.\u0026rdquo; Markers farther on the track are further forward in time.\u003c/p\u003e\n\n\u003cp\u003eThe player with the marker lowest on the track (furthest \u0026ldquo;back in time\u0026rdquo;) takes the next action. Different actions have different costs in time. The player\u0026rsquo;s marker is advanced a number of spaces according to the cost of the selected action. Then, the next lowest marker on the track takes an action.\u003c/p\u003e\n\n\u003cp\u003eIt is possible that the same player takes multiple turns in a row.\u003c/p\u003e\n\n\u003cp\u003eNOTE: If there is a time tracker that does not determine turn order, that does not qualify as using this Time Track turn order mechanism.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Variable Phase Order",
+      "dataDescription": "\u003cp\u003eVariable Phase Order implies that turns may not be played the same way as before and / or after.\u003c/p\u003e\n\n\u003cp\u003eUsing Puerto Rico as an example, every turn is different. Depending on who starts selecting the roles and what roles they take, you may have to play the 'build' action sooner than you'd wish. In other games, you may be denied from taking certain action.\u003c/p\u003e\n\n\u003cp\u003eMost games with limited action and any game without a static game turn order fall under this 'mechanism'. Use of variable player turn order are not Variable Phase Order games.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Variable Player Powers",
+      "dataDescription": "\u003cp\u003eVariable Player Powers is a mechanic that grants different abilities and/or paths to victory to the players.  To illustrate, here are some notable examples.\u003c/p\u003e\n\n\u003cp\u003eIn \u003ca  href=\"/boardgame/5206/ogre\"   \u003eOgre\u003c/a\u003e, one player controls a single powerful piece, and the other plays many weaker units.  The net effect is a balanced game.\u003c/p\u003e\n\n\u003cp\u003eIn \u003ca  href=\"/boardgame/39463/cosmic-encounter\"   \u003eCosmic Encounter\u003c/a\u003e, each player is assigned a random special ability at the beginning of the game.  Although each player has the same victory goal (establish colonies on five planets in other players' systems), their abilities enable differing means to the end.\u003c/p\u003e\n\n\u003cp\u003eIn \u003ca  href=\"/boardgame/17392/here-i-stand\"   \u003eHere I Stand\u003c/a\u003e, each player controls a political power with unique ways to score victory points.  Some focus on military conquest, some on religious influence, etc.\u003c/p\u003e\n\n\u003cp\u003ePlayer powers may change throughout the game, as in \u003ca  href=\"/boardgame/40692/small-world\"   \u003eSmall World\u003c/a\u003e or \u003ca  href=\"/boardgame/97357/sunrise-city\"   \u003eSunrise City\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Variable Set-up",
+      "dataDescription": "\u003cp\u003eThe starting game state varies from game to game, through changes to shared game components like the map, and/or changes to starting player set-ups, resources, objectives, etc.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Victory Points as a Resource",
+      "dataDescription": "\u003cp\u003eVictory Points (VPs) may be spent as a currency to impact the game state.\u003c/p\u003e\n\n\u003cp\u003eBusiness or \u003ca  href=\"/boardgamecategory/1021/economic\"   \u003eEconomic\u003c/a\u003e games that use currency and give the win to the players with the most money are common examples of this mechanism. However games with other themes like \u003ca  href=\"/boardgame/40692/small-world\"   \u003eSmall World\u003c/a\u003e also use this mechanism.  Games where currency (or other resources) can contribute in a minor fashion as extra VPs at the end game (usually at some discount rate) should not be tagged with this mechanism, but rather as \u003ca  href=\"/boardgamemechanic/2875/end-game-bonuses\"   \u003eEnd Game Bonuses\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Voting",
+      "dataDescription": "\u003cp\u003ePlayers vote on whether a proposed action will occur or not.\u003c/p\u003e\n\n\u003cp\u003eIn most games with this mechanism each player has one vote. However several, like \u003ca  href=\"/boardgame/242/junta\"   \u003eJunta\u003c/a\u003e, give players different numbers of votes depending on their board position or the issue being voted on.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Worker Placement",
+      "dataDescription": "\u003cp\u003eA stylized form of \u003ca  href=\"/boardgamemechanic/2838/action-drafting\"   \u003eAction Drafting\u003c/a\u003e, players place tokens (typically the classic person-shaped \u0026quot;meeple\u0026quot;) to trigger an action from a set of actions available to all players, generally one-at-a-time and in turn order. Some games achieve the same effect in reverse: the turn begins with action spaces filled by markers, which are claimed by players for some cost. Each player usually has a limited number of tokens with which to participate in the process, although these may increase as the game progresses.\u003c/p\u003e\n\n\u003cp\u003eThere is usually(*) a limit on the number of times a single action may be taken. Once that limit for an action is reached, it typically either becomes more expensive to take again or can no longer be taken for the remainder of the round. As such, not all actions can be taken by all players in a given round, and \u0026quot;action blocking\u0026quot; occurs. If the game is structured in rounds, then all actions are usually refreshed at the start or end of each round so that they become available again.\u003c/p\u003e\n\n\u003cp\u003eFrom a thematic standpoint, the game pieces which players use to draft actions often represent \u0026quot;workers\u0026quot; of a given trade (this category of mechanism, however, is not necessarily limited to or by this thematic representation). In other words, players often thematically \u0026quot;place workers\u0026quot; to show which actions have been drafted by individual players. For example, in Agricola each player starts with two pieces representing family members that can be placed on action spaces to collect resources or take other actions like building fences. When someone places a piece on a given space, that action is no longer available until the next round.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/294/keydom\"   \u003eKeydom\u003c/a\u003e, which was published in 1998, is widely recognized as the first of the worker placement genre of games. Other early design experiments with the mechanism include \u003ca  href=\"/boardgame/552/bus\"   \u003eBus\u003c/a\u003e (1999) and \u003ca  href=\"/boardgame/884/way-out-west\"   \u003eWay Out West\u003c/a\u003e (2000). Well known examples of worker placement include \u003ca  href=\"/boardgame/31260/agricola\"   \u003eAgricola\u003c/a\u003e (2007), \u003ca  href=\"/boardgame/18602/caylus\"   \u003eCaylus\u003c/a\u003e (2005) and \u003ca  href=\"/boardgame/34635/stone-age\"   \u003eStone Age\u003c/a\u003e (2008).\u003c/p\u003e\n\n\u003cp\u003e(*) The use of the word \u0026quot;usually\u0026quot; in this context is a somewhat controversial point of discussion. For purposes of BGG classification, \u0026quot;action blocking\u0026quot; is a defining element of worker placement. In that case, there must always be a limit on the number of times a single action may be drafted each round.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eMicrobadges\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/microbadge/8936\"\u003e\u003cimg alt='Microbadge: Worker placement fan' onmouseover=\"return overlib('Worker placement fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_8936_0.gif\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"https://boardgamegeek.com/microbadge/8936\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eWorker Placement fan\u003c/a\u003e\u003cbr /\u003e\n\u003ca href=\"/microbadge/9033\"\u003e\u003cimg alt='Microbadge: Worker placement fan' onmouseover=\"return overlib('Worker placement fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https://cf.geekdo-static.com/mbs/mb_9033_0.gif\"\u003e\u003c/a\u003e \u003ca rel=\"nofollow\" href=\"https://boardgamegeek.com/microbadge/9033\" onclick=\"window.open(this.href, '_blank'); return false;\"\u003eWorker Placement fan\u003c/a\u003e\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Worker Placement with Dice Workers",
+      "dataDescription": "\u003cp\u003eWorkers are represented by dice whose pip values impact play.\u003c/p\u003e\n\n\u003cp\u003e\u003ca  href=\"/boardgame/27162/kingsburg\"   \u003eKingsburg\u003c/a\u003e and \u003ca  href=\"/boardgame/48726/alien-frontiers\"   \u003eAlien Frontiers\u003c/a\u003e are examples of this mechanism.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Worker Placement, Different Worker Types",
+      "dataDescription": "\u003cp\u003eWorkers can differ in abilities, or can be upgraded and downgraded, or are valid for placement in different areas and buildings.\u003c/p\u003e\n\n\u003cp\u003eGames that implement this mechanism include \u003ca  href=\"/boardgame/22545/age-empires-iii-age-discovery\"   \u003eAge of Empires III: The Age of Discovery\u003c/a\u003e and \u003ca  href=\"/boardgame/63628/manhattan-project\"   \u003eThe Manhattan Project\u003c/a\u003e.\u003c/p\u003e\n\n"
+   },
+   {
+      "dataName": "Zone of Control",
+      "dataDescription": "\u003cp\u003eSpaces adjacent to a unit impact the ability of opposing units to move or attack.\u003c/p\u003e\n\n\u003cp\u003eThis is a very common mechanism in wargames, such as \u003ca  href=\"/boardgame/2808/russian-campaign\"   \u003eThe Russian Campaign\u003c/a\u003e. There are many variations, including \u0026quot;Locking ZOCs\u0026quot;, where units are frozen and cannot leave, \u0026quot;Soft ZOCs\u0026quot;, where units can move from ZOC to ZOC, but at some penalty, and others.\u003c/p\u003e\n\n"
+   }
+]

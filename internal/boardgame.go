@@ -2,11 +2,16 @@
 package internal
 
 const (
-	CategoriesURLS = "categoriesURLS"
-	MechanicsURLS  = "mechanicsURLS"
-	Categories     = "categories"
-	Mechanics      = "mechanics"
+	Categories     = "boardgamecategory"
+	Mechanics      = "boardgamemechanic"
+	CategoriesURLS = Categories + "URLS"
+	MechanicsURLS  = Mechanics + "URLS"
 )
+
+type Characteristic struct {
+	Categories []Data `json:"categories,omitempty"`
+	Mechanisms []Data `json:"mechanisms,omitempty"`
+}
 
 type Data struct {
 	Name        string `json:"dataName"`
@@ -18,15 +23,14 @@ type Range struct {
 	Max int `json:"max"`
 }
 
-type Game struct {
-	Name         string `json:"name"`
-	Description  string `json:"description"`
-	YearReleased int    `json:"yearReleased"`
-	NoPlayers    Range  `json:"noPlayers"`
-	PlayTime     Range  `json:"playTime"`
-	MinAge       int    `json:"age"`
-	Categories   []Data `json:"categories"`
-	Mechanisms   []Data `json:"mechanisms"`
+type BoardGame struct {
+	Name           string         `json:"name"`
+	Description    string         `json:"description"`
+	YearReleased   int            `json:"yearReleased"`
+	NoPlayers      Range          `json:"noPlayers"`
+	PlayTime       Range          `json:"playTime"`
+	MinAge         int            `json:"age"`
+	Characteristic Characteristic `json:"characteristic,omitempty"`
 }
 
 type GeekScriptItem struct {
@@ -45,10 +49,7 @@ type Items struct {
 		Thumbnail string `xml:"thumbnail"`
 		Image     string `xml:"image"`
 		Name      []struct {
-			Text      string `xml:",chardata"`
-			Type      string `xml:"type,attr"`
-			Sortindex string `xml:"sortindex,attr"`
-			Value     string `xml:"value,attr"`
+			Value string `xml:"value,attr"`
 		} `xml:"name"`
 		Description   string `xml:"description"`
 		Yearpublished struct {
@@ -59,10 +60,9 @@ type Items struct {
 			Text  string `xml:",chardata"`
 			Value int    `xml:"value,attr"`
 		} `xml:"minplayers"`
-
 		Playingtime struct {
 			Text  string `xml:",chardata"`
-			Value string `xml:"value,attr"`
+			Value int    `xml:"value,attr"`
 		} `xml:"playingtime"`
 		Minplaytime struct {
 			Text  string `xml:",chardata"`
@@ -80,5 +80,9 @@ type Items struct {
 			Text  string `xml:",chardata"`
 			Value int    `xml:"value,attr"`
 		} `xml:"maxplayers"`
+		Link []struct {
+			Type  string `xml:"type,attr"`
+			Value string `xml:"value,attr"`
+		} `xml:"link"`
 	} `xml:"item"`
 }

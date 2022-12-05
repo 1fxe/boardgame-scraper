@@ -27,10 +27,35 @@ func profile(start time.Time, name string) {
 	log.Printf("%s took %s", name, elapsed)
 }
 
+func loadBoardGameProperties(s string) map[string]internal.Data {
+	file, err := os.ReadFile(fmt.Sprintf("./data/%s.json", internal.Categories))
+
+	if err != nil {
+		log.Panicln("Error reading file: ", err)
+	}
+
+	var data []internal.Data
+
+	err = json.Unmarshal(file, &data)
+	if err != nil {
+		log.Panicln("Error unmarshalling file: ", err)
+	}
+
+	var dataMap = make(map[string]internal.Data)
+	for _, datum := range data {
+		dataMap[datum.Name] = datum
+	}
+
+	return dataMap
+}
+
 func main() {
+	var allCategories = loadBoardGameProperties(internal.Categories)
+	var allMechanics = loadBoardGameProperties(internal.Mechanics)
+
 	// fetch data from API
 	var listOfIds []string
-	for i := 1; i < 1_000; i++ {
+	for i := 1; i < 100; i++ {
 		listOfIds = append(listOfIds, strconv.Itoa(i))
 	}
 
@@ -53,11 +78,26 @@ func main() {
 	}
 	profile(start, "unmarshal data")
 
-	var games []internal.Game
+	var games []internal.BoardGame
 
 	start = time.Now()
 	for _, item := range data.Item {
-		games = append(games, internal.Game{
+		var categories []internal.Data
+		var mechanisms []internal.Data
+		for _, link := range item.Link {
+			if link.Type == internal.Categories {
+				category := allCategories[link.Value]
+				if category != (internal.Data{}) {
+					categories = append(categories, category)
+				}
+			} else if link.Type == internal.Mechanics {
+				mechanism := allMechanics[link.Value]
+				if mechanism != (internal.Data{}) {
+					mechanisms = append(mechanisms, mechanism)
+				}
+			}
+		}
+		games = append(games, internal.BoardGame{
 			Name:         item.Name[0].Value,
 			Description:  item.Description,
 			YearReleased: item.Yearpublished.Value,
@@ -69,9 +109,11 @@ func main() {
 				Min: item.Minplaytime.Value,
 				Max: item.Maxplaytime.Value,
 			},
-			MinAge:     item.Minage.Value,
-			Categories: []internal.Data{},
-			Mechanisms: []internal.Data{},
+			MinAge: item.Minage.Value,
+			Characteristic: internal.Characteristic{
+				Categories: categories,
+				Mechanisms: mechanisms,
+			},
 		})
 	}
 
