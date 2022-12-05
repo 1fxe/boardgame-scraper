@@ -1,4 +1,4 @@
-module github.com/1fxe/board-game-web-scraper
+module github.com/1fxe/boardgame-scraper
 
 go 1.19
 
