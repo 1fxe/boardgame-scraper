@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"github.com/1fxe/board-game-web-scraper/internal"
+	"github.com/1fxe/boardgame-scraper/internal"
 	"github.com/chromedp/chromedp"
 	"github.com/gocolly/colly"
 	"log"

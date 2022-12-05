@@ -9,8 +9,8 @@ const (
 )
 
 type Characteristic struct {
-	Categories []Data `json:"categories,omitempty"`
-	Mechanisms []Data `json:"mechanisms,omitempty"`
+	Categories []Data `json:"categories"`
+	Mechanisms []Data `json:"mechanisms"`
 }
 
 type Data struct {
@@ -30,7 +30,7 @@ type BoardGame struct {
 	NoPlayers      Range          `json:"noPlayers"`
 	PlayTime       Range          `json:"playTime"`
 	MinAge         int            `json:"age"`
-	Characteristic Characteristic `json:"characteristic,omitempty"`
+	Characteristic Characteristic `json:"characteristic"`
 }
 
 type GeekScriptItem struct {

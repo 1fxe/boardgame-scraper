@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
-	"github.com/1fxe/board-game-web-scraper/internal"
+	"github.com/1fxe/boardgame-scraper/internal"
 	"log"
 	"net/http"
 	"os"
@@ -28,7 +28,7 @@ func profile(start time.Time, name string) {
 }
 
 func loadBoardGameProperties(s string) map[string]internal.Data {
-	file, err := os.ReadFile(fmt.Sprintf("./data/%s.json", internal.Categories))
+	file, err := os.ReadFile(fmt.Sprintf("./data/%s.json", s))
 
 	if err != nil {
 		log.Panicln("Error reading file: ", err)
